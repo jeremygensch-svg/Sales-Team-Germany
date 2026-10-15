@@ -20,7 +20,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Componeers GmbH": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Kein Auftrag. Aktion: nicht ansprechen (Medienhaus).
-14. Quellen: - https://sget.org/?p=2160 und https://www.itsa365.de/en/exhibitors/componeers-gmbh-2577336 – Suchzusammenfassung: Medien- und Eventfirma, Haar (S, kein wörtliches Zitat); Abruf 2026-10-15.
+14. Quellen: - https://sget.org/?p=2160 und https://www.itsa365.de/en/exhibitors/componeers-gmbh-2577336 – Suchzusammenfassung: „Media and events firm for the electronics industry“ (sinngemäß aus Suchzusammenfassung, Haar; S); Abruf 2026-10-15.
 15. Größe/Umsatz: unbekannt
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Einzelsuche nicht ausgeführt (E2, Budget). Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Name und Ort passen zur Vorgabe (S); Rechtsform GmbH aus Vorgabe, Register/Impressum nicht gelesen. Tätigkeit weicht von der Ersteinschätzung ab.
@@ -39,7 +39,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Components at Service GmbH": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Kein Auftrag. Aktion: nicht ansprechen.
-14. Quellen: - https://www.elektroniknet.de/anbieterkompass/components-at-service-gmbh.39849202/index.html – Verzeichnis: Distributor in Oberhaching (S, sinngemäß); https://www.bayern-innovativ.de/en/competencies-bavarian-chips-alliance/components-at-service-gmbh/ – 'independent distributor of electronic components' (S); Abruf 2026-10-15.
+14. Quellen: - https://www.elektroniknet.de/anbieterkompass/components-at-service-gmbh.39849202/index.html – Verzeichnis: Oberhaching, Passive/Distribution (S, „Distributor“); https://www.bayern-innovativ.de/en/competencies-bavarian-chips-alliance/components-at-service-gmbh/ – „independent distributor of electronic components“ (S); Abruf 2026-10-15.
 15. Größe/Umsatz: unbekannt
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Einzelsuche nicht ausgeführt (E2). Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Name, Rechtsform und Adresse passen zur Vorgabe (S, Verzeichnis); Register nicht gelesen.
@@ -58,7 +58,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "CompoTEK GmbH": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Kein Auftrag. Aktion: nicht ansprechen.
-14. Quellen: - https://www.tallysman.com/distributor/compotek/ – Distributorenseite eines Herstellers: Münchner Distributor (S, sinngemäß); https://web2.cylex.de/firma-home/compotek-gmbh-1677127.html – Adresse (S); Abruf 2026-10-15.
+14. Quellen: - https://www.tallysman.com/distributor/compotek/ – Distributorenseite eines Herstellers: „Munich-based distributor“ (sinngemäß, S); https://web2.cylex.de/firma-home/compotek-gmbh-1677127.html – Adresse (S); Abruf 2026-10-15.
 15. Größe/Umsatz: unbekannt
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Einzelsuche nicht ausgeführt (E2). Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Name, Rechtsform und Adresse passen (S, Verzeichnisse); Register nicht gelesen.
@@ -77,7 +77,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Comsol Multiphysics GmbH" "Comsol": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Kein Auftrag. Aktion: nicht ansprechen.
-14. Quellen: - https://www.chemie.de/firmen/11649/comsol-multiphysics-gmbh.html – Suchzusammenfassung: Anbieter von Simulationssoftware, Büro Göttingen (S); https://www.comsol.com/company/careers/job/9491/ – Stelle 'Technische*r Vertriebsmitarbeiter*in für Simulationssoftware' (S); Abruf 2026-10-15.
+14. Quellen: - https://www.chemie.de/firmen/11649/comsol-multiphysics-gmbh.html – Suchzusammenfassung: „simulation software for product design and research“ (Büro Göttingen; S); https://www.comsol.com/company/careers/job/9491/ – Stelle „Technische*r Vertriebsmitarbeiter*in für Simulationssoftware“ (S); Abruf 2026-10-15.
 15. Größe/Umsatz: unbekannt (16 Büros weltweit laut Suchzusammenfassung, S)
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Einzelsuche nicht ausgeführt (E2). Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Name, Rechtsform, Adresse passen zur Vorgabe (S). Konzernsitz laut Quellen widersprüchlich (Stockholm/Boston), für die Bewertung ohne Belang. Register nicht gelesen.
@@ -96,7 +96,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Condair GmbH" "Condair Group": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Auftrag (Vorschlag an Tina): (a) Produziert die Einheit in Norderstedt (Condair Operations GmbH) Dampfbefeuchter, und welche Teile (Steuerungen, Dampfzylinder)? Standortseite/Broschüre und Stellenanzeigen Produktion Norderstedt lesen. (b) Ist die Condair GmbH oder die Condair Operations GmbH die richtige Einheit (Impressum)? (c) Werden Steuerplatinen/Sensoren vergossen oder verklebt (Datenblätter, Stellenanzeigen)? Aktion: nach Klärung entscheiden.
-14. Quellen: - https://www.condairgroup.com/m/0/condair-standortbrosch-re-de.pdf – Suchzusammenfassung: 'rund 130 Mitarbeiter in der EMEA-Region' am Standort Norderstedt (S, nicht selbst gelesen); https://www.condair.co.uk/m/0/condair-factory-norderstedt-brochure.pdf – manufactures items from all ranges (S); https://www.condair.ch/downloads/brochures/brochures_ch/brochures_ch-de/bro_condair-rm_de_ch_12-2021.pdf – Heizelemente über Hybridrelais geschaltet (S); https://patents.justia.com/assignee/condair-humidity-ltd – Familie Steam cylinder (S); Abruf 2026-10-15.
+14. Quellen: - https://www.condairgroup.com/m/0/condair-standortbrosch-re-de.pdf – Suchzusammenfassung: „around 130 employees“ in der EMEA-Region am Standort Norderstedt (S, nicht selbst gelesen); https://www.condair.co.uk/m/0/condair-factory-norderstedt-brochure.pdf – „manufactures items from all of the ranges“ (S); https://www.condair.ch/downloads/brochures/brochures_ch/brochures_ch-de/bro_condair-rm_de_ch_12-2021.pdf – „hybrid relays“ schalten die Heizelemente (S); https://patents.justia.com/assignee/condair-humidity-ltd – Familie „steam cylinder“ (S); Abruf 2026-10-15.
 15. Größe/Umsatz: ca. 130 Mitarbeiter am Standort Norderstedt laut Firmenbroschüre (S); Gruppe über 700 Mitarbeiter (S)
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Websuche 'Condair Norderstedt Dosieranlage OR Klebstoff OR Vergussmasse Nordson OR Scheugenpflug OR Henkel OR Elantas OR DOPAG Referenz': kein Hinweis. Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Name und Adresse passen (S); die Broschüre nennt 'Condair Operations GmbH' am gleichen Standort, die Vorgabe 'Condair GmbH' entspricht dem Verzeichnis (Direkt-Raumluftbefeuchtung, Heinze). Rechtsform/Register nicht gelesen; Einheit klären (Feld 13).
@@ -115,7 +115,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Conrad Electronic SE" "Conrad Electronic" "Conrad": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Auftrag (nur falls Jey Eigenmarken interessieren): wo und von wem werden Voltcraft-Produkte gefertigt (Herstellerangaben Datenblatt/CE-Erklärung)? Sonst keine Aktion.
-14. Quellen: - https://www.keytobavaria.com/company-details/conrad-electronic-se-16633 – Suchzusammenfassung: Firmensitz Hirschau, Sourcing-Plattform (S); https://wikipedia.com/wiki/C-Control – Einkaufszentrale Hongkong, Zentrallager Deutschland (S, Sekundärquelle); Abruf 2026-10-15.
+14. Quellen: - https://www.keytobavaria.com/company-details/conrad-electronic-se-16633 – Suchzusammenfassung: Hirschau, „sourcing platform for technical supplies“ (S); https://wikipedia.com/wiki/C-Control – „purchase centre in Hong Kong“ (sinngemäß, S, Sekundärquelle); Abruf 2026-10-15.
 15. Größe/Umsatz: unbekannt (10 Mio. Produkte, 17 Länder laut Verzeichnissen, S)
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Einzelsuche nicht ausgeführt (E2). Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Name und Ort passen (S); Rechtsform SE aus Vorgabe, Postleitzahl 92240 (Vorgabe) vs. 92242 (Verzeichnis); Register nicht gelesen.
@@ -134,7 +134,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "ConSYtronic GmbH": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Auftrag: Firma identifizieren und Tätigkeit klären (Impressum, Handelsregister, Messeprofil auf electronica.de, Aussteller-Website). Welche Baugruppen werden in Taglaching gefertigt, und gibt es Verguss/Schutzlack? Aktion: erst nach Klärung bewerten.
-14. Quellen: - Keine tragende Quelle gefunden. Nur Eingabe (Messeliste Export 03.07.2026: C. 'A1.616, 85567 Taglaching', Ersteinschätzung EMS, unverifiziert); Websuchen 2026-10-15 ohne Treffer zur Firma.
+14. Quellen: - Keine tragende Quelle gefunden. Nur Eingabe (Messeliste, Ersteinschätzung „EMS / Baugruppenfertigung“, unverifiziert). Einziger ähnlicher Treffer ist eine andere Firma (kein Beleg): https://www.elektroniknet.de/anbieterkompass/systronic-produktionstechnologie-gmbh-co-kg.1024968/index.html („Systronic“, Cleebronn); Websuchen 2026-10-15 ohne Treffer zur Firma.
 15. Größe/Umsatz: unbekannt
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Websuche (oben) ohne Treffer zur Firma. Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: NICHT BELEGT: Firma in keiner Websuche auffindbar; Name, Rechtsform, Adresse, Register nur aus der Messeliste. Tina: Zeile 2 (Identität) prüfen.
@@ -153,7 +153,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "CoreStaff Germany GmbH" "CoreStaff": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Auftrag (gering): Tätigkeit der Firma kurz bestätigen (Impressum/Messeprofil). Aktion: nicht ansprechen.
-14. Quellen: - Keine Quelle zur Firma gefunden. Websuche 'CoreStaff Germany GmbH Düsseldorf Personaldienstleister' 2026-10-15: nur andere Firmen; Eingabe der Messeliste.
+14. Quellen: - Keine Quelle zur Firma gefunden; Eingabe: „Personaldienstleister“ (Ersteinschätzung, unverifiziert). Kein Treffer, Suchseite z. B. https://www.stepstone.de/work/personal/in-d%c3%bcsseldorf (andere Firmen, kein Beleg). Websuche 'CoreStaff Germany GmbH Düsseldorf Personaldienstleister' 2026-10-15: nur andere Firmen; Eingabe der Messeliste.
 15. Größe/Umsatz: unbekannt
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Einzelsuche nicht ausgeführt (E2). Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: NICHT BELEGT: Firma in der Websuche nicht auffindbar; Angaben nur aus der Messeliste.
@@ -162,7 +162,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 1. Firma: Coronex Electronic GmbH (Messe electronica 2026, Halle/Stand A1.643)
 2. Segment / Demak-Geschäftsbereich: Electrical Insulation (EMS-Baugruppen und Geräte), gegebenenfalls Optical Bonding/Gasketing bei Box-Build
 3. Gebiet: Rest Deutschland+Niederlande (Ratingen, Nordrhein-Westfalen)
-4. Sitz und Fertigungsort: Halskestraße 1, 40880 Ratingen (S, EMSNOW-Profil und Handwerkskammer-Eintrag). Eigene Fertigung am Sitz laut Profil ('EMS-Dienstleister in der Rhein-Ruhr-Region seit über 40 Jahren', S).
+4. Sitz und Fertigungsort: Halskestraße 1, 40880 Ratingen (S, EMSNOW-Profil und Handwerkskammer-Eintrag). Eigene Fertigung am Sitz laut Profil („one of the leading EMS service providers“ in Rhein-Ruhr seit über 40 Jahren, S).
 5. Website: https://www.coronex.de (aus Suchzusammenfassung, nicht aufgerufen)
 6. Was wird gebaut -> Bauteile: EMS: Beschaffung, Bestückung von Leiterplatten, komplexe Baugruppen und Fertiggeräte (Box Build), Kabel/Kabelbäume, Prototyping, Test, ATEX-Zulassung (S). Kunden vor allem Kommunikations-/Datentechnik und Industrie, kleine Anteile Automotive, Energie, Luftfahrt (S, Profil um 2022). Typisch vergossen/verklebt/gedichtet (alles A): Baugruppen mit Schutzlack/Teilverguss Mittel (Block B), Kabel mit vergossenen Steckern/Durchführungen Mittel bis Hoch (Block A), Box-Build-Gehäuse mit Dichtung Mittel, Ex-geschützte Baugruppen (Vergusskapselung) Mittel. Kein Beleg für Verguss.
 7. Fertigung DE/AT/NL: Mittel, Stufe S. Auftragsfertiger mit eigenem Sitz-Werk laut Profil (um 2022); für Hoch wäre Stufe V (aktuelle Firmenseite) nötig.
@@ -172,7 +172,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Coronex Electronic GmbH" "Coronex": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Auftrag (Vorschlag an Tina): Coronex-Website lesen (Leistungen, Fertigungsverfahren): werden Verguss, Dosieren, Schutzlack oder Kleben angeboten? Stellenanzeigen Ratingen (Vergießer, Dosieren, Montage) prüfen; aktuelle Kundenbranchen (Profil ca. 2022, älter als 6 Monate nicht mehr maßgeblich).
-14. Quellen: - https://www.emsnow.com/?p=33271 – Profil: Sitz Halskestraße 1, 100 bis 499 Mitarbeiter, Box Build, Kabelkonfektion, ATEX (S, Suchzusammenfassung); https://ausbildung.hwk-muenster.de/impiris/pdf/export/275025 – 'gesamtes Spektrum eines qualifizierten EMS-Dienstleisters' (S, ca. 2022); Abruf 2026-10-15.
+14. Quellen: - https://www.emsnow.com/?p=33271 – Profil: Halskestraße 1, „box build, cable and wire harness assembly“, ATEX (S, Suchzusammenfassung); https://ausbildung.hwk-muenster.de/impiris/pdf/export/275025 – 'gesamtes Spektrum eines qualifizierten EMS-Dienstleisters' (S, ca. 2022); Abruf 2026-10-15.
 15. Größe/Umsatz: 100 bis 499 Mitarbeiter laut EMSNOW-Profil (S, um 2022); Umsatz unbekannt
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Websuche 'Coronex Electronic Ratingen Referenz Dosieranlage OR Vergussanlage OR Schutzlack Nordson OR bdtronic OR Scheugenpflug OR Elantas OR Electrolube': keine Treffer zur Firma. Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Name, Rechtsform und Ort passen zur Vorgabe (S: EMSNOW, Handwerkskammer-Eintrag); Register/Impressum nicht gelesen.
@@ -191,7 +191,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md per Grep auf alle Firmen- und 
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Courier Network Germany GmbH" "Courier Network": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion: Kein Auftrag. Aktion: nicht ansprechen.
-14. Quellen: - https://cnwglobal.com/news-logistical-insights/cnw-courier-network-opens-new-office-in-frankfurt-germany/ – Eröffnung des Frankfurter Büros 2017 (S, Suchzusammenfassung; Datum älter als 6 Monate); Abruf 2026-10-15.
+14. Quellen: - https://cnwglobal.com/news-logistical-insights/cnw-courier-network-opens-new-office-in-frankfurt-germany/ – „opens new office in Frankfurt“ 2017 (S, Suchzusammenfassung; älter als 6 Monate); Abruf 2026-10-15.
 15. Größe/Umsatz: unbekannt
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md per Grep (kein Eintrag); Einzelsuche nicht ausgeführt (E2). Messe-Signal: bdtronic, ELANTAS, Momentive, RAMPF (Advanced Polymers und Production Systems) stellen auf der electronica aus.
 17. Identität: Marke 'Courier NetWork (CNW)' passt zum Namen; ob die deutsche GmbH noch besteht, ist nicht belegt (Quelle 2017). Register nicht gelesen.
