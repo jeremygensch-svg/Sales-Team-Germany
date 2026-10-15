@@ -1,0 +1,2897 @@
+[
+ {
+  "name": "ABB STOTZ-KONTAKT GmbH",
+  "stand": "417",
+  "plz": "69123",
+  "stadt": "Heidelberg",
+  "land": "Deutschland",
+  "nq": "abb stotz-kontakt",
+  "hits": []
+ },
+ {
+  "name": "Accuride International GmbH",
+  "stand": "532",
+  "plz": "65582",
+  "stadt": "Diez",
+  "land": "Deutschland",
+  "nq": "accuride",
+  "hits": []
+ },
+ {
+  "name": "ACD Elektronik GmbH",
+  "stand": "511",
+  "plz": "88480",
+  "stadt": "Achstetten",
+  "land": "Deutschland",
+  "nq": "acd elektronik",
+  "hits": []
+ },
+ {
+  "name": "ACI Laser GmbH",
+  "stand": "206",
+  "plz": "99428",
+  "stadt": "Grammetal OT Nohra",
+  "land": "Deutschland",
+  "nq": "aci laser",
+  "hits": []
+ },
+ {
+  "name": "AI.SEE GmbH",
+  "stand": "121",
+  "plz": "80636",
+  "stadt": "München",
+  "land": "Deutschland",
+  "nq": "ai see",
+  "hits": []
+ },
+ {
+  "name": "AIRTEC Pneumatic GmbH",
+  "stand": "220",
+  "plz": "61476",
+  "stadt": "Kronberg",
+  "land": "Deutschland",
+  "nq": "airtec pneumatic",
+  "hits": []
+ },
+ {
+  "name": "aiXbrain GmbH",
+  "stand": "316",
+  "plz": "52066",
+  "stadt": "Aachen",
+  "land": "Deutschland",
+  "nq": "aixbrain",
+  "hits": []
+ },
+ {
+  "name": "AIXONTEC GmbH",
+  "stand": "111",
+  "plz": "52068",
+  "stadt": "Aachen",
+  "land": "Deutschland",
+  "nq": "aixontec",
+  "hits": []
+ },
+ {
+  "name": "ALWA smartPINS GmbH*",
+  "stand": "724",
+  "plz": "79843",
+  "stadt": "Löffingen-Unadingen",
+  "land": "Deutschland",
+  "nq": "alwa smartpins",
+  "hits": []
+ },
+ {
+  "name": "Armbruster Engineering GmbH & Co. KG",
+  "stand": "620",
+  "plz": "28207",
+  "stadt": "Bremen",
+  "land": "Deutschland",
+  "nq": "armbruster engineering",
+  "hits": []
+ },
+ {
+  "name": "Asyril GmbH",
+  "stand": "524",
+  "plz": "77656",
+  "stadt": "Offenburg",
+  "land": "Deutschland",
+  "nq": "asyril",
+  "hits": []
+ },
+ {
+  "name": "ATEG Automation GmbH",
+  "stand": "123",
+  "plz": "42859",
+  "stadt": "Remscheid",
+  "land": "Deutschland",
+  "nq": "ateg automation",
+  "hits": []
+ },
+ {
+  "name": "Autec Sondermaschinenbau GmbH",
+  "stand": "226",
+  "plz": "92224",
+  "stadt": "Amberg",
+  "land": "Deutschland",
+  "nq": "autec sondermaschinenbau",
+  "hits": []
+ },
+ {
+  "name": "Autonics Germany",
+  "stand": "130",
+  "plz": "65760",
+  "stadt": "Eschborn",
+  "land": "Deutschland",
+  "nq": "autonics",
+  "hits": []
+ },
+ {
+  "name": "Bahrmann GmbH",
+  "stand": "239",
+  "plz": "71116",
+  "stadt": "Gärtringen",
+  "land": "Deutschland",
+  "nq": "bahrmann",
+  "hits": []
+ },
+ {
+  "name": "Balluff GmbH",
+  "stand": "703",
+  "plz": "73765",
+  "stadt": "Neuhausen Auf Den Fildern",
+  "land": "Deutschland",
+  "nq": "balluff",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 206,
+    "raw": "Balluff GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Basebyte GmbH",
+  "stand": "238d",
+  "plz": "44805",
+  "stadt": "Bochum",
+  "land": "Deutschland",
+  "nq": "basebyte",
+  "hits": []
+ },
+ {
+  "name": "BAT Maschinenbau GmbH",
+  "stand": "418",
+  "plz": "58540",
+  "stadt": "Meinerzhagen",
+  "land": "Deutschland",
+  "nq": "bat maschinenbau",
+  "hits": []
+ },
+ {
+  "name": "Beckhoff Automation GmbH & Co. KG",
+  "stand": "714",
+  "plz": "33415",
+  "stadt": "Verl",
+  "land": "Deutschland",
+  "nq": "beckhoff automation",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 229,
+    "raw": "Beckhoff Automation GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Benedict*",
+  "stand": "435",
+  "plz": "42489",
+  "stadt": "Wülfrath",
+  "land": "Deutschland",
+  "nq": "benedict",
+  "hits": []
+ },
+ {
+  "name": "Berghof Automation GmbH",
+  "stand": "223",
+  "plz": "72800",
+  "stadt": "Eningen unter Achalm",
+  "land": "Deutschland",
+  "nq": "berghof automation",
+  "hits": []
+ },
+ {
+  "name": "BERNSTEIN AG",
+  "stand": "604",
+  "plz": "32457",
+  "stadt": "Porta Westfalica",
+  "land": "Deutschland",
+  "nq": "bernstein",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 244,
+    "raw": "BERNSTEIN AG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Bihl+Wiedemann GmbH",
+  "stand": "707",
+  "plz": "68199",
+  "stadt": "Mannheim",
+  "land": "Deutschland",
+  "nq": "bihl wiedemann",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 256,
+    "raw": "BIHL+WIEDEMANN\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 257,
+    "raw": "Bihl+Wiedemann GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "BLOCK Transformatoren-Elektronik GmbH",
+  "stand": "315",
+  "plz": "27261",
+  "stadt": "Verden (Aller)",
+  "land": "Deutschland",
+  "nq": "block transformatoren-elektronik",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 273,
+    "raw": "BLOCK Transformatoren-Elektrionik GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 274,
+    "raw": "BLOCK Transformatoren-Elektronik GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Bluhm Systeme GmbH",
+  "stand": "720",
+  "plz": "53619",
+  "stadt": "Rheinbreitbach",
+  "land": "Deutschland",
+  "nq": "bluhm systeme",
+  "hits": []
+ },
+ {
+  "name": "Bopla Gehäuse Systeme GmbH",
+  "stand": "525",
+  "plz": "32257",
+  "stadt": "Bünde",
+  "land": "Deutschland",
+  "nq": "bopla gehaeuse systeme",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 299,
+    "raw": "BOPLA Gehäuse Systeme GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Bosch Rexroth AG",
+  "stand": "311",
+  "plz": "97816",
+  "stadt": "Lohr a. Main",
+  "land": "Deutschland",
+  "nq": "bosch rexroth",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 313,
+    "raw": "Bosch\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 314,
+    "raw": "Bosch Fake\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 315,
+    "raw": "Bosch Hildesheim\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 316,
+    "raw": "Bosch Mobility Company\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 317,
+    "raw": "Bosch Rexroth\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 318,
+    "raw": "Bosch Rexroth AG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "BUBLITZ GmbH",
+  "stand": "218",
+  "plz": "5748",
+  "stadt": "Wenden-Gerlingen",
+  "land": "Deutschland",
+  "nq": "bublitz",
+  "hits": []
+ },
+ {
+  "name": "BWH Elektro-Vertriebs-GmbH",
+  "stand": "218",
+  "plz": "42329",
+  "stadt": "Wuppertal",
+  "land": "Deutschland",
+  "nq": "bwh elektro-vertriebs-",
+  "hits": []
+ },
+ {
+  "name": "Camozzi Automation GmbH",
+  "stand": "245",
+  "plz": "73095",
+  "stadt": "Albershausen",
+  "land": "Deutschland",
+  "nq": "camozzi automation",
+  "hits": []
+ },
+ {
+  "name": "CETA Testsysteme GmbH",
+  "stand": "230",
+  "plz": "40721",
+  "stadt": "Hilden",
+  "land": "Deutschland",
+  "nq": "ceta testsysteme",
+  "hits": []
+ },
+ {
+  "name": "Christ Electronic Systems GmbH",
+  "stand": "800",
+  "plz": "87700",
+  "stadt": "Memmingen",
+  "land": "Deutschland",
+  "nq": "christ electronic systems",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 410,
+    "raw": "Christ Electronic Systems GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Cobot Safety UG",
+  "stand": "625",
+  "plz": "56242",
+  "stadt": "Nordhofen",
+  "land": "Deutschland",
+  "nq": "cobot safety",
+  "hits": []
+ },
+ {
+  "name": "conplement AG",
+  "stand": "317",
+  "plz": "90449",
+  "stadt": "Nürnberg",
+  "land": "Deutschland",
+  "nq": "conplement",
+  "hits": []
+ },
+ {
+  "name": "CONTA-CLIP Verbindungstechnik GmbH",
+  "stand": "224",
+  "plz": "33161",
+  "stadt": "Hövelhof",
+  "land": "Deutschland",
+  "nq": "conta-clip verbindungstechnik",
+  "hits": []
+ },
+ {
+  "name": "DATALOGIC S.r.l. Niederlassung Central Europe",
+  "stand": "830",
+  "plz": "63225",
+  "stadt": "Langen (Hessen)",
+  "land": "Deutschland",
+  "nq": "datalogic niederlassung central europe",
+  "hits": []
+ },
+ {
+  "name": "DENSO Robotics Europe",
+  "stand": "726",
+  "plz": "64546",
+  "stadt": "Mörfelden-Walldorf",
+  "land": "Deutschland",
+  "nq": "denso robotics europe",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 502,
+    "raw": "DENSO\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 503,
+    "raw": "DENSO AUTOMOTIVE Deutschland GmbH\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 504,
+    "raw": "DENSO Automotive Deutschland GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Deutscher Robotik Verband DRV e.V.",
+  "stand": "818",
+  "plz": "55768",
+  "stadt": "Hoppstädten-Weiersbach",
+  "land": "Deutschland",
+  "nq": "deutscher robotik verband drv e v",
+  "hits": []
+ },
+ {
+  "name": "DFS Montageautomation GmbH",
+  "stand": "414",
+  "plz": "64653",
+  "stadt": "Lorsch",
+  "land": "Deutschland",
+  "nq": "dfs montageautomation",
+  "hits": []
+ },
+ {
+  "name": "Dobot Europe GmbH",
+  "stand": "213",
+  "plz": "63263",
+  "stadt": "Neu-Isenburg",
+  "land": "Deutschland",
+  "nq": "dobot europe",
+  "hits": []
+ },
+ {
+  "name": "Dr. E. Horn GmbH & Co KG",
+  "stand": "239",
+  "plz": "71116",
+  "stadt": "Gärtringen",
+  "land": "Deutschland",
+  "nq": "dr e horn",
+  "hits": [
+   {
+    "kind": "ENTHALTEN",
+    "f": "bekannte",
+    "i": 1074,
+    "raw": "HORN Dr. E. Horn GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Dr. Erich TRETTER GmbH + Co.",
+  "stand": "704",
+  "plz": "73098",
+  "stadt": "Rechberghausen",
+  "land": "Deutschland",
+  "nq": "dr erich tretter",
+  "hits": []
+ },
+ {
+  "name": "Dreisbach & Jungmann GmbH & Co. KG",
+  "stand": "826",
+  "plz": "58507",
+  "stadt": "Lüdenscheid",
+  "land": "Deutschland",
+  "nq": "dreisbach jungmann",
+  "hits": []
+ },
+ {
+  "name": "DSP Systeme GmbH",
+  "stand": "147",
+  "plz": "40229",
+  "stadt": "Düsseldorf",
+  "land": "Deutschland",
+  "nq": "dsp systeme",
+  "hits": []
+ },
+ {
+  "name": "Dussmann Industrial Automation GmbH",
+  "stand": "513",
+  "plz": "73037",
+  "stadt": "Göppingen",
+  "land": "Deutschland",
+  "nq": "dussmann industrial automation",
+  "hits": []
+ },
+ {
+  "name": "Easyfairs GmbH",
+  "stand": "102",
+  "plz": "70469",
+  "stadt": "Stuttgart",
+  "land": "Deutschland",
+  "nq": "easyfairs",
+  "hits": []
+ },
+ {
+  "name": "Eaton Electric GmbH",
+  "stand": "427",
+  "plz": "53115",
+  "stadt": "Bonn",
+  "land": "Deutschland",
+  "nq": "eaton electric",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 589,
+    "raw": "Eaton\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "EFCO Electronics GmbH",
+  "stand": "211",
+  "plz": "94469",
+  "stadt": "Deggendorf",
+  "land": "Deutschland",
+  "nq": "efco electronics",
+  "hits": []
+ },
+ {
+  "name": "EGE-Elektronik GmbH",
+  "stand": "723",
+  "plz": "24214",
+  "stadt": "Gettorf",
+  "land": "Deutschland",
+  "nq": "ege-elektronik",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 620,
+    "raw": "EGE-Elektronik Spezial-Sensoren GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Elbacom elektronische Bauteile und Componenten HandelsgmbH",
+  "stand": "242",
+  "plz": "7152",
+  "stadt": "Pamhagen",
+  "land": "Österreich",
+  "nq": "elbacom elektronische bauteile componenten handelsgmbh",
+  "hits": []
+ },
+ {
+  "name": "elcom Deutschland GmbH",
+  "stand": "145",
+  "plz": "40764",
+  "stadt": "Langenfeld Rheinland",
+  "land": "Deutschland",
+  "nq": "elcom",
+  "hits": []
+ },
+ {
+  "name": "embedded data GmbH",
+  "stand": "420",
+  "plz": "53474",
+  "stadt": "Bad Neuenahr-Ahrweiler",
+  "land": "Deutschland",
+  "nq": "embedded data",
+  "hits": []
+ },
+ {
+  "name": "EPA GmbH",
+  "stand": "429",
+  "plz": "63486",
+  "stadt": "Bruchköbel",
+  "land": "Deutschland",
+  "nq": "epa",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 709,
+    "raw": "EPA\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "EPSON DEUTSCHLAND GmbH",
+  "stand": "243",
+  "plz": "40549",
+  "stadt": "Düsseldorf",
+  "land": "Deutschland",
+  "nq": "epson",
+  "hits": []
+ },
+ {
+  "name": "ERO-Führungen GmbH",
+  "stand": "724",
+  "plz": "79843",
+  "stadt": "Löffingen-Unadingen",
+  "land": "Deutschland",
+  "nq": "ero-fuehrungen",
+  "hits": []
+ },
+ {
+  "name": "ESCHA GmbH & Co. KG",
+  "stand": "209",
+  "plz": "58542",
+  "stadt": "Halver",
+  "land": "Deutschland",
+  "nq": "escha",
+  "hits": []
+ },
+ {
+  "name": "ETL Paul Schlegel GmbH",
+  "stand": "304",
+  "plz": "09114",
+  "stadt": "Chemnitz",
+  "land": "Deutschland",
+  "nq": "etl paul schlegel",
+  "hits": []
+ },
+ {
+  "name": "ETN GmbH",
+  "stand": "804",
+  "plz": "76344",
+  "stadt": "Eggenstein-Leopoldshafen",
+  "land": "Deutschland",
+  "nq": "etn",
+  "hits": []
+ },
+ {
+  "name": "EUCHNER GmbH + Co. KG",
+  "stand": "607",
+  "plz": "70771",
+  "stadt": "Leinfelden-Echterdingen",
+  "land": "Deutschland",
+  "nq": "euchner",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 738,
+    "raw": "EUCHNER GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Europascal GmbH",
+  "stand": "122",
+  "plz": "63456",
+  "stadt": "Hanau",
+  "land": "Deutschland",
+  "nq": "europascal",
+  "hits": []
+ },
+ {
+  "name": "EUtech Scientific Engineering GmbH",
+  "stand": "212",
+  "plz": "52076",
+  "stadt": "Aachen",
+  "land": "Deutschland",
+  "nq": "eutech scientific engineering",
+  "hits": []
+ },
+ {
+  "name": "EVE GmbH",
+  "stand": "834",
+  "plz": "48282",
+  "stadt": "Emsdetten",
+  "land": "Deutschland",
+  "nq": "eve",
+  "hits": []
+ },
+ {
+  "name": "EVG Martens GmbH & Co. KG",
+  "stand": "233",
+  "plz": "41182",
+  "stadt": "Mönchengladbach",
+  "land": "Deutschland",
+  "nq": "evg martens",
+  "hits": []
+ },
+ {
+  "name": "EXTRA Computer GmbH",
+  "stand": "242",
+  "plz": "89537",
+  "stadt": "Giengen an der Brenz",
+  "land": "Deutschland",
+  "nq": "extra computer",
+  "hits": []
+ },
+ {
+  "name": "Festo AG & Co. KG*",
+  "stand": "228",
+  "plz": "57258",
+  "stadt": "Freudenberg",
+  "land": "Deutschland",
+  "nq": "festo",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 783,
+    "raw": "FESTO\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 784,
+    "raw": "Festool GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Fibox GmbH",
+  "stand": "306",
+  "plz": "32457",
+  "stadt": "Porta Westfalica",
+  "land": "Deutschland",
+  "nq": "fibox",
+  "hits": []
+ },
+ {
+  "name": "FIBRO Rundtische GmbH",
+  "stand": "134",
+  "plz": "74189",
+  "stadt": "Weinsberg",
+  "land": "Deutschland",
+  "nq": "fibro rundtische",
+  "hits": []
+ },
+ {
+  "name": "FlowChief GmbH",
+  "stand": "522",
+  "plz": "90530",
+  "stadt": "Wendelstein",
+  "land": "Deutschland",
+  "nq": "flowchief",
+  "hits": []
+ },
+ {
+  "name": "Franz Binder Gmbh & Co. KG",
+  "stand": "313",
+  "plz": "74172",
+  "stadt": "Neckarsulm",
+  "land": "Deutschland",
+  "nq": "franz binder",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 828,
+    "raw": "Franz Kessler GmbH\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 829,
+    "raw": "Franz Steger Transformatorenbau GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Fuhrmeister + Co GmbH",
+  "stand": "126",
+  "plz": "42499",
+  "stadt": "Hückeswagen",
+  "land": "Deutschland",
+  "nq": "fuhrmeister",
+  "hits": []
+ },
+ {
+  "name": "fünfeinhalb Funksysteme GmbH",
+  "stand": "424",
+  "plz": "01187",
+  "stadt": "Dresden",
+  "land": "Deutschland",
+  "nq": "fuenfeinhalb funksysteme",
+  "hits": []
+ },
+ {
+  "name": "gbm mbH",
+  "stand": "836",
+  "plz": "41065",
+  "stadt": "Mönchengladbach",
+  "land": "Deutschland",
+  "nq": "gbm",
+  "hits": []
+ },
+ {
+  "name": "Georg Schlegel GmbH & Co. KG",
+  "stand": "120",
+  "plz": "88525",
+  "stadt": "Dürmentingen",
+  "land": "Deutschland",
+  "nq": "georg schlegel",
+  "hits": []
+ },
+ {
+  "name": "Gerdt Seefrid GmbH",
+  "stand": "501",
+  "plz": "61118",
+  "stadt": "Bad Vilbel",
+  "land": "Deutschland",
+  "nq": "gerdt seefrid",
+  "hits": []
+ },
+ {
+  "name": "GMK Electronic Design GmbH",
+  "stand": "203",
+  "plz": "92533",
+  "stadt": "Wernberg-Köblitz",
+  "land": "Deutschland",
+  "nq": "gmk electronic design",
+  "hits": []
+ },
+ {
+  "name": "GRIP GmbH",
+  "stand": "238a",
+  "plz": "44379",
+  "stadt": "Dortmund",
+  "land": "Deutschland",
+  "nq": "grip",
+  "hits": []
+ },
+ {
+  "name": "Grob-Werke",
+  "stand": "626",
+  "plz": "87719",
+  "stadt": "Mindelheim",
+  "land": "Deutschland",
+  "nq": "grob-werke",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 928,
+    "raw": "GROB-WERKE GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Groschopp AG Drives & More",
+  "stand": "403",
+  "plz": "41747",
+  "stadt": "Viersen",
+  "land": "Deutschland",
+  "nq": "groschopp drives more",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 929,
+    "raw": "Groschopp AG\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 930,
+    "raw": "Groschopp AG Drives & More\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Günther Spelsberg GmbH & Co. KG",
+  "stand": "509",
+  "plz": "58579",
+  "stadt": "Schalksmühle",
+  "land": "Deutschland",
+  "nq": "guenther spelsberg",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 943,
+    "raw": "Günther Electronic GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 944,
+    "raw": "Günther Spelsberg GmbH + Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "H. Zander GmbH",
+  "stand": "217",
+  "plz": "52070",
+  "stadt": "Aachen",
+  "land": "Deutschland",
+  "nq": "h zander",
+  "hits": []
+ },
+ {
+  "name": "Hans Turck GmbH & Co. KG",
+  "stand": "225",
+  "plz": "45472",
+  "stadt": "Mülheim An Der Ruhr",
+  "land": "Deutschland",
+  "nq": "hans turck",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 973,
+    "raw": "Hans Turck GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Hardy Schmitz GmbH",
+  "stand": "128",
+  "plz": "48432",
+  "stadt": "Rheine",
+  "land": "Deutschland",
+  "nq": "hardy schmitz",
+  "hits": []
+ },
+ {
+  "name": "HARTING Deutschland GmbH & Co. KG",
+  "stand": "710",
+  "plz": "32423",
+  "stadt": "Minden",
+  "land": "Deutschland",
+  "nq": "harting",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 985,
+    "raw": "HARTING Automotive GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 986,
+    "raw": "HARTING Deutschland GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Heinz Berger Maschinenfabrik GmbH & KG",
+  "stand": "232",
+  "plz": "42349",
+  "stadt": "Wuppertal-Cronenberg",
+  "land": "Deutschland",
+  "nq": "heinz berger maschinenfabrik",
+  "hits": []
+ },
+ {
+  "name": "Helukabel GmbH",
+  "stand": "216",
+  "plz": "71282",
+  "stadt": "Hemmingen",
+  "land": "Deutschland",
+  "nq": "helukabel",
+  "hits": []
+ },
+ {
+  "name": "Herbert Waldmann GmbH & Co. KG",
+  "stand": "110",
+  "plz": "78056",
+  "stadt": "Villingen-Schwenningen",
+  "land": "Deutschland",
+  "nq": "herbert waldmann",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1035,
+    "raw": "Herbert Waldmann GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Hitachi Europe GmbH",
+  "stand": "135",
+  "plz": "40547",
+  "stadt": "Düsseldorf",
+  "land": "Deutschland",
+  "nq": "hitachi europe",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1055,
+    "raw": "Hitachi\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1056,
+    "raw": "HITACHI ENERGY\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1057,
+    "raw": "Hitachi Energy Ltd.\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "HMS Industrial Networks GmbH",
+  "stand": "613",
+  "plz": "76131",
+  "stadt": "Karlsruhe",
+  "land": "Deutschland",
+  "nq": "hms industrial networks",
+  "hits": []
+ },
+ {
+  "name": "HSB Automation GmbH",
+  "stand": "422",
+  "plz": "72766",
+  "stadt": "Reutlingen",
+  "land": "Deutschland",
+  "nq": "hsb automation",
+  "hits": []
+ },
+ {
+  "name": "HUGRO-Armaturen GmbH",
+  "stand": "219",
+  "plz": "79183",
+  "stadt": "Waldkirch",
+  "land": "Deutschland",
+  "nq": "hugro-armaturen",
+  "hits": []
+ },
+ {
+  "name": "IBF Automation GmbH",
+  "stand": "228",
+  "plz": "57258",
+  "stadt": "Freudenberg",
+  "land": "Deutschland",
+  "nq": "ibf automation",
+  "hits": []
+ },
+ {
+  "name": "ICT Group",
+  "stand": "712",
+  "plz": "3446 CG",
+  "stadt": "Woerden",
+  "land": "Niederlande",
+  "nq": "ict",
+  "hits": []
+ },
+ {
+  "name": "ID Ingenieure & Dienstleistungen GmbH",
+  "stand": "129",
+  "plz": "53881",
+  "stadt": "Euskirchen",
+  "land": "Deutschland",
+  "nq": "id ingenieure dienstleistungen",
+  "hits": []
+ },
+ {
+  "name": "ifm electronic gmbh Vertrieb Deutschland",
+  "stand": "229",
+  "plz": "45128",
+  "stadt": "Essen",
+  "land": "Deutschland",
+  "nq": "ifm electronic vertrieb",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1117,
+    "raw": "ifm electronic gmbh\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "igus GmbH",
+  "stand": "603",
+  "plz": "51147",
+  "stadt": "Köln",
+  "land": "Deutschland",
+  "nq": "igus",
+  "hits": []
+ },
+ {
+  "name": "ILME GmbH",
+  "stand": "309",
+  "plz": "51674",
+  "stadt": "Wiehl",
+  "land": "Deutschland",
+  "nq": "ilme",
+  "hits": []
+ },
+ {
+  "name": "ima-tec GmbH",
+  "stand": "140",
+  "plz": "97273",
+  "stadt": "Kürnach",
+  "land": "Deutschland",
+  "nq": "ima-tec",
+  "hits": []
+ },
+ {
+  "name": "IMPADY*",
+  "stand": "818",
+  "plz": "55768",
+  "stadt": "Hoppstädten-Weiersbach",
+  "land": "Deutschland",
+  "nq": "impady",
+  "hits": []
+ },
+ {
+  "name": "In|Die Region Westfalen",
+  "stand": "238",
+  "plz": "44787",
+  "stadt": "Bochum",
+  "land": "Deutschland",
+  "nq": "in die region westfalen",
+  "hits": []
+ },
+ {
+  "name": "In|Die Region Westfalen",
+  "stand": "238MA",
+  "plz": "44787",
+  "stadt": "Bochum",
+  "land": "Deutschland",
+  "nq": "in die region westfalen",
+  "hits": []
+ },
+ {
+  "name": "Infranor GmbH",
+  "stand": "530",
+  "plz": "63452",
+  "stadt": "Hanau",
+  "land": "Deutschland",
+  "nq": "infranor",
+  "hits": []
+ },
+ {
+  "name": "Ingenieur-Kontor-Sottrum GmbH",
+  "stand": "824",
+  "plz": "27367",
+  "stadt": "Sottrum",
+  "land": "Deutschland",
+  "nq": "ingenieur-kontor-sottrum",
+  "hits": []
+ },
+ {
+  "name": "Innodisk Germany GmbH",
+  "stand": "242",
+  "plz": "76275",
+  "stadt": "Ettlingen",
+  "land": "Deutschland",
+  "nq": "innodisk",
+  "hits": []
+ },
+ {
+  "name": "INOCON GmbH",
+  "stand": "801",
+  "plz": "53359",
+  "stadt": "Rheinbach",
+  "land": "Deutschland",
+  "nq": "inocon",
+  "hits": []
+ },
+ {
+  "name": "INperfektion GmbH",
+  "stand": "717",
+  "plz": "41844",
+  "stadt": "Wegberg",
+  "land": "Deutschland",
+  "nq": "inperfektion",
+  "hits": []
+ },
+ {
+  "name": "INSEVIS GmbH",
+  "stand": "615",
+  "plz": "91058",
+  "stadt": "Erlangen",
+  "land": "Deutschland",
+  "nq": "insevis",
+  "hits": []
+ },
+ {
+  "name": "IO-Link Community",
+  "stand": "507",
+  "plz": "76149",
+  "stadt": "Karlsruhe",
+  "land": "Deutschland",
+  "nq": "io-link community",
+  "hits": []
+ },
+ {
+  "name": "ipf electronic gmbh",
+  "stand": "526",
+  "plz": "58762",
+  "stadt": "Altena",
+  "land": "Deutschland",
+  "nq": "ipf electronic",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1189,
+    "raw": "IPF ELECTRONIC\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1190,
+    "raw": "ipf electronic gmbh\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "IXON B.V.",
+  "stand": "438",
+  "plz": "5835 DW",
+  "stadt": "Beugen",
+  "land": "Niederlande",
+  "nq": "ixon",
+  "hits": []
+ },
+ {
+  "name": "J. Schneider Elektrotechnik GmbH",
+  "stand": "113",
+  "plz": "77656",
+  "stadt": "Offenburg",
+  "land": "Deutschland",
+  "nq": "j schneider elektrotechnik",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1208,
+    "raw": "J. Schneider Elektrotechnik\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "JAM automation GmbH",
+  "stand": "118",
+  "plz": "50931",
+  "stadt": "Köln",
+  "land": "Deutschland",
+  "nq": "jam automation",
+  "hits": []
+ },
+ {
+  "name": "Janitza Electronics GmbH",
+  "stand": "114",
+  "plz": "35633",
+  "stadt": "Lahnau",
+  "land": "Deutschland",
+  "nq": "janitza electronics",
+  "hits": []
+ },
+ {
+  "name": "Jenny Science AG",
+  "stand": "",
+  "plz": "6026",
+  "stadt": "Rain",
+  "land": "Schweiz",
+  "nq": "jenny science",
+  "hits": []
+ },
+ {
+  "name": "Kaiser GmbH & Co. KG",
+  "stand": "115",
+  "plz": "58579",
+  "stadt": "Schalksmühle",
+  "land": "Deutschland",
+  "nq": "kaiser",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1247,
+    "raw": "Kaiser Elektroplanung GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Kalitec Verbindungstechnik GmbH",
+  "stand": "143",
+  "plz": "42653",
+  "stadt": "Solingen",
+  "land": "Deutschland",
+  "nq": "kalitec verbindungstechnik",
+  "hits": []
+ },
+ {
+  "name": "KEYENCE Deutschland GmbH",
+  "stand": "116",
+  "plz": "60549",
+  "stadt": "Frankfurt",
+  "land": "Deutschland",
+  "nq": "keyence",
+  "hits": []
+ },
+ {
+  "name": "Kistler Instrumente GmbH",
+  "stand": "715",
+  "plz": "71063",
+  "stadt": "Sindelfingen",
+  "land": "Deutschland",
+  "nq": "kistler instrumente",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1290,
+    "raw": "KISTLER INSTRUMENTE GMBH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "KOCO MOTION GmbH",
+  "stand": "318",
+  "plz": "78083",
+  "stadt": "Dauchingen",
+  "land": "Deutschland",
+  "nq": "koco motion",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1311,
+    "raw": "Koco Motion Gmbh\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Komax Kabelverarbeitungssysteme Deutschland GmbH",
+  "stand": "413",
+  "plz": "90449",
+  "stadt": "Nürnberg",
+  "land": "Deutschland",
+  "nq": "komax kabelverarbeitungssysteme",
+  "hits": []
+ },
+ {
+  "name": "Kübler Group - Fritz Kübler GmbH",
+  "stand": "426",
+  "plz": "78054",
+  "stadt": "Villingen-Schwenningen",
+  "land": "Deutschland",
+  "nq": "kuebler - fritz kuebler",
+  "hits": []
+ },
+ {
+  "name": "KURZ Digital Solutions GmbH & Co. KG",
+  "stand": "713",
+  "plz": "90763",
+  "stadt": "Fürth",
+  "land": "Deutschland",
+  "nq": "kurz digital solutions",
+  "hits": []
+ },
+ {
+  "name": "Lanfer Automation + Robotics GmbH",
+  "stand": "614",
+  "plz": "46325",
+  "stadt": "Borken-Weseke",
+  "land": "Deutschland",
+  "nq": "lanfer automation robotics",
+  "hits": []
+ },
+ {
+  "name": "LASIT LASER DEUTSCHLAND GMBH",
+  "stand": "402",
+  "plz": "78194",
+  "stadt": "Immendingen",
+  "land": "Deutschland",
+  "nq": "lasit laser",
+  "hits": []
+ },
+ {
+  "name": "Leantechnik AG",
+  "stand": "210",
+  "plz": "46047",
+  "stadt": "Oberhausen",
+  "land": "Deutschland",
+  "nq": "leantechnik",
+  "hits": []
+ },
+ {
+  "name": "LED2WORK GmbH",
+  "stand": "435",
+  "plz": "75179",
+  "stadt": "Pforzheim",
+  "land": "Deutschland",
+  "nq": "led2work",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1401,
+    "raw": "LED2WORK GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Lenord, Bauer & Co. GmbH",
+  "stand": "405",
+  "plz": "46145",
+  "stadt": "Oberhausen",
+  "land": "Deutschland",
+  "nq": "lenord bauer",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1416,
+    "raw": "Lenord\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1417,
+    "raw": "Lenord, Bauer & Co. GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Lenze Vertrieb GmbH",
+  "stand": "611",
+  "plz": "70771",
+  "stadt": "Leinfelden-Echterdingen",
+  "land": "Deutschland",
+  "nq": "lenze vertrieb",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1418,
+    "raw": "Lenze\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1419,
+    "raw": "Lenze Operations GmbH\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1420,
+    "raw": "LENZE OPERATIONS GMBH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Leuze electronic GmbH + Co. KG",
+  "stand": "231",
+  "plz": "73277",
+  "stadt": "Owen",
+  "land": "Deutschland",
+  "nq": "leuze electronic",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1423,
+    "raw": "Leuze electronic Deutschalnd GmbH +Co. KG\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1424,
+    "raw": "Leuze electronic Deutschland GmbH + Co. KG\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1425,
+    "raw": "Leuze electronic GmbH + Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "LinMot GmbH",
+  "stand": "310",
+  "plz": "45141",
+  "stadt": "Essen",
+  "land": "Deutschland",
+  "nq": "linmot",
+  "hits": []
+ },
+ {
+  "name": "Lovato Electric GmbH",
+  "stand": "802",
+  "plz": "76337",
+  "stadt": "Waldbronn",
+  "land": "Deutschland",
+  "nq": "lovato electric",
+  "hits": []
+ },
+ {
+  "name": "Machine Creators GmbH & Co. KG",
+  "stand": "434",
+  "plz": "59872",
+  "stadt": "Meschede",
+  "land": "Deutschland",
+  "nq": "machine creators",
+  "hits": []
+ },
+ {
+  "name": "Magnescale Europe GmbH",
+  "stand": "621",
+  "plz": "73249",
+  "stadt": "Wernau",
+  "land": "Deutschland",
+  "nq": "magnescale europe",
+  "hits": []
+ },
+ {
+  "name": "Mark3D GmbH",
+  "stand": "312",
+  "plz": "35708",
+  "stadt": "Haiger",
+  "land": "Deutschland",
+  "nq": "mark3d",
+  "hits": []
+ },
+ {
+  "name": "MB connect line GmbH",
+  "stand": "615",
+  "plz": "91550",
+  "stadt": "Dinkelsbühl",
+  "land": "Deutschland",
+  "nq": "mb connect line",
+  "hits": []
+ },
+ {
+  "name": "MBS AG",
+  "stand": "517",
+  "plz": "74429",
+  "stadt": "Sulzbach-Laufen",
+  "land": "Deutschland",
+  "nq": "mbs",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1568,
+    "raw": "MBS AG\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1569,
+    "raw": "MBS AG & Co KG\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1570,
+    "raw": "MBS AG & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "measX GmbH & Co. KG",
+  "stand": "610",
+  "plz": "41189",
+  "stadt": "Mönchengladbach",
+  "land": "Deutschland",
+  "nq": "measx",
+  "hits": []
+ },
+ {
+  "name": "MEDI Kabel GmbH",
+  "stand": "132",
+  "plz": "84478",
+  "stadt": "Waldkraiburg",
+  "land": "Deutschland",
+  "nq": "medi kabel",
+  "hits": []
+ },
+ {
+  "name": "Mensch Und Maschine Deutschland GmbH",
+  "stand": "214",
+  "plz": "82234",
+  "stadt": "Weßling",
+  "land": "Deutschland",
+  "nq": "mensch maschine",
+  "hits": []
+ },
+ {
+  "name": "MERECS Engineering GmbH",
+  "stand": "701",
+  "plz": "48565",
+  "stadt": "Steinfurt",
+  "land": "Deutschland",
+  "nq": "merecs engineering",
+  "hits": []
+ },
+ {
+  "name": "Metz Connect GmbH",
+  "stand": "505",
+  "plz": "78176",
+  "stadt": "Blumberg",
+  "land": "Deutschland",
+  "nq": "metz connect",
+  "hits": []
+ },
+ {
+  "name": "Meurer-etechnik GmbH",
+  "stand": "125",
+  "plz": "56276",
+  "stadt": "Großmaischeid",
+  "land": "Deutschland",
+  "nq": "meurer-etechnik",
+  "hits": []
+ },
+ {
+  "name": "MICROMEDIA Deutschland ZN der Micromedia International SAS",
+  "stand": "529",
+  "plz": "72145",
+  "stadt": "Hirrlingen",
+  "land": "Deutschland",
+  "nq": "micromedia zn der micromedia sas",
+  "hits": []
+ },
+ {
+  "name": "MiniTec GmbH & Co.KG",
+  "stand": "709",
+  "plz": "66901",
+  "stadt": "Schönenberg-Kübelberg",
+  "land": "Deutschland",
+  "nq": "minitec",
+  "hits": []
+ },
+ {
+  "name": "Mitsubishi Electric Europe B.V.",
+  "stand": "513",
+  "plz": "40882",
+  "stadt": "RATINGEN",
+  "land": "Deutschland",
+  "nq": "mitsubishi electric europe",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1632,
+    "raw": "Mitsubishi Elextric\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Mitsubishi Electric Europe B.V.",
+  "stand": "118",
+  "plz": "40882",
+  "stadt": "RATINGEN",
+  "land": "Deutschland",
+  "nq": "mitsubishi electric europe",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1632,
+    "raw": "Mitsubishi Elextric\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "MKC Michels & Kleberhoff Computer GmbH",
+  "stand": "711",
+  "plz": "42329",
+  "stadt": "Wuppertal",
+  "land": "Deutschland",
+  "nq": "mkc michels kleberhoff computer",
+  "hits": []
+ },
+ {
+  "name": "MKW GmbH",
+  "stand": "244",
+  "plz": "42327",
+  "stadt": "Wuppertal",
+  "land": "Deutschland",
+  "nq": "mkw",
+  "hits": []
+ },
+ {
+  "name": "Mobil-Mark GmbH",
+  "stand": "117",
+  "plz": "66386",
+  "stadt": "St. Ingbert",
+  "land": "Deutschland",
+  "nq": "mobil-mark",
+  "hits": []
+ },
+ {
+  "name": "Molex, LLC",
+  "stand": "705",
+  "plz": "65032",
+  "stadt": "Lisle IL",
+  "land": "USA",
+  "nq": "molex llc",
+  "hits": []
+ },
+ {
+  "name": "Möller GmbH",
+  "stand": "221",
+  "plz": "49356",
+  "stadt": "DIEPHOLZ",
+  "land": "Deutschland",
+  "nq": "moeller",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1642,
+    "raw": "Möller-Preussler Transformatoren GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "MP-SENSOR GmbH",
+  "stand": "302",
+  "plz": "73765",
+  "stadt": "Neuhausen auf den Fildern",
+  "land": "Deutschland",
+  "nq": "mp-sensor",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1655,
+    "raw": "MP-SENSOR GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Müller Maschinentechnik GmbH",
+  "stand": "534",
+  "plz": "52321",
+  "stadt": "Düren",
+  "land": "Deutschland",
+  "nq": "mueller maschinentechnik",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1674,
+    "raw": "Müller Industrie-Elektronik GmbH\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1675,
+    "raw": "Müller Werbemittel GbR\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1676,
+    "raw": "Müller Werbemittel GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Multimedial-Systeme",
+  "stand": "434",
+  "plz": "59872",
+  "stadt": "Meschede",
+  "land": "Deutschland",
+  "nq": "multimedial-systeme",
+  "hits": []
+ },
+ {
+  "name": "Murrelektronik GmbH",
+  "stand": "407",
+  "plz": "71570",
+  "stadt": "Oppenweiler",
+  "land": "Deutschland",
+  "nq": "murrelektronik",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1684,
+    "raw": "Murrelektronik GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Mütron Müller GmbH & Co. KG",
+  "stand": "305",
+  "plz": "28832",
+  "stadt": "Achim",
+  "land": "Deutschland",
+  "nq": "muetron mueller",
+  "hits": []
+ },
+ {
+  "name": "MVTec Software GmbH",
+  "stand": "416",
+  "plz": "80634",
+  "stadt": "München",
+  "land": "Deutschland",
+  "nq": "mvtec software",
+  "hits": []
+ },
+ {
+  "name": "NACHI EUROPE GmbH",
+  "stand": "222",
+  "plz": "47809",
+  "stadt": "Krefeld",
+  "land": "Deutschland",
+  "nq": "nachi europe",
+  "hits": []
+ },
+ {
+  "name": "Neff Gewindetriebe GmbH",
+  "stand": "616",
+  "plz": "71093",
+  "stadt": "Weil Im Schönbuch",
+  "land": "Deutschland",
+  "nq": "neff gewindetriebe",
+  "hits": []
+ },
+ {
+  "name": "Niederrhein Automation GmbH",
+  "stand": "602",
+  "plz": "41844",
+  "stadt": "Wegberg",
+  "land": "Deutschland",
+  "nq": "niederrhein automation",
+  "hits": []
+ },
+ {
+  "name": "NIES electronic gmbh",
+  "stand": "410",
+  "plz": "60388",
+  "stadt": "Frankfurt",
+  "land": "Deutschland",
+  "nq": "nies electronic",
+  "hits": []
+ },
+ {
+  "name": "Norgren GmbH",
+  "stand": "303",
+  "plz": "46519",
+  "stadt": "Alpen",
+  "land": "Deutschland",
+  "nq": "norgren",
+  "hits": []
+ },
+ {
+  "name": "OnRobot GmbH",
+  "stand": "534",
+  "plz": "59494",
+  "stadt": "Soest",
+  "land": "Deutschland",
+  "nq": "onrobot",
+  "hits": []
+ },
+ {
+  "name": "Optonic GmbH",
+  "stand": "237",
+  "plz": "79106",
+  "stadt": "Freiburg im Breisgau",
+  "land": "Deutschland",
+  "nq": "optonic",
+  "hits": []
+ },
+ {
+  "name": "Optris GmbH & Co. KG",
+  "stand": "123",
+  "plz": "13127",
+  "stadt": "Berlin",
+  "land": "Deutschland",
+  "nq": "optris",
+  "hits": []
+ },
+ {
+  "name": "Oriental Motor (Europa) GmbH",
+  "stand": "617",
+  "plz": "40549",
+  "stadt": "Düsseldorf",
+  "land": "Deutschland",
+  "nq": "oriental motor europa",
+  "hits": []
+ },
+ {
+  "name": "P+K Maschinen- und Anlagenbau GmbH",
+  "stand": "700",
+  "plz": "42653",
+  "stadt": "SOLINGEN",
+  "land": "Deutschland",
+  "nq": "p k maschinen- anlagenbau",
+  "hits": []
+ },
+ {
+  "name": "Panasonic Industry Europe GmbH",
+  "stand": "314",
+  "plz": "85521",
+  "stadt": "Ottobrunn",
+  "land": "Deutschland",
+  "nq": "panasonic industry europe",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 1782,
+    "raw": "Panasonic\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1783,
+    "raw": "Panasonic Industrial Devices Europe GmbH\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1784,
+    "raw": "Panasonic Industrial Drives Europe GmbH\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 1785,
+    "raw": "Panasonic Industrial Drives Materials Europe GmbH\t[AT]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1786,
+    "raw": "Panasonic Industry Europe\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Peakboard GmbH",
+  "stand": "308",
+  "plz": "70174",
+  "stadt": "Stuttgart",
+  "land": "Deutschland",
+  "nq": "peakboard",
+  "hits": []
+ },
+ {
+  "name": "Pfannenberg*",
+  "stand": "435",
+  "plz": "42489",
+  "stadt": "Wülfrath",
+  "land": "Deutschland",
+  "nq": "pfannenberg",
+  "hits": []
+ },
+ {
+  "name": "Pilz GmbH & Co. KG",
+  "stand": "725",
+  "plz": "73760",
+  "stadt": "Ostfildern",
+  "land": "Deutschland",
+  "nq": "pilz",
+  "hits": []
+ },
+ {
+  "name": "Pressluft Klefinghaus GmbH",
+  "stand": "415",
+  "plz": "58513",
+  "stadt": "Lüdenscheid",
+  "land": "Deutschland",
+  "nq": "pressluft klefinghaus",
+  "hits": []
+ },
+ {
+  "name": "Printec-DS HMI Solutions*",
+  "stand": "435",
+  "plz": "42489",
+  "stadt": "Wülfrath",
+  "land": "Deutschland",
+  "nq": "printec-ds hmi solutions",
+  "hits": []
+ },
+ {
+  "name": "QuickMOVE GmbH",
+  "stand": "716",
+  "plz": "50676",
+  "stadt": "Köln",
+  "land": "Deutschland",
+  "nq": "quickmove",
+  "hits": []
+ },
+ {
+  "name": "R+W Antriebselemente GmbH",
+  "stand": "718",
+  "plz": "63939",
+  "stadt": "Wörth am Main",
+  "land": "Deutschland",
+  "nq": "r w antriebselemente",
+  "hits": []
+ },
+ {
+  "name": "RAFI GmbH & Co. KG",
+  "stand": "536",
+  "plz": "88276",
+  "stadt": "Berg/Ravensburg",
+  "land": "Deutschland",
+  "nq": "rafi",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 1937,
+    "raw": "RAFI GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "red cable robots*",
+  "stand": "818",
+  "plz": "55768",
+  "stadt": "Hoppstädten-Weiersbach",
+  "land": "Deutschland",
+  "nq": "red cable robots",
+  "hits": []
+ },
+ {
+  "name": "REFACTUM GmbH",
+  "stand": "412",
+  "plz": "67663",
+  "stadt": "Kaiserslautern",
+  "land": "Deutschland",
+  "nq": "refactum",
+  "hits": []
+ },
+ {
+  "name": "REIKU GmbH",
+  "stand": "609",
+  "plz": "51674",
+  "stadt": "Wiehl-Bomig",
+  "land": "Deutschland",
+  "nq": "reiku",
+  "hits": []
+ },
+ {
+  "name": "Rexel Germany GmbH & Co KG",
+  "stand": "408",
+  "plz": "80339",
+  "stadt": "München",
+  "land": "Deutschland",
+  "nq": "rexel",
+  "hits": []
+ },
+ {
+  "name": "RK Rose + Krieger GmbH",
+  "stand": "139",
+  "plz": "32423",
+  "stadt": "Minden",
+  "land": "Deutschland",
+  "nq": "rk rose krieger",
+  "hits": []
+ },
+ {
+  "name": "Robco GmbH",
+  "stand": "131",
+  "plz": "80333",
+  "stadt": "München",
+  "land": "Deutschland",
+  "nq": "robco",
+  "hits": []
+ },
+ {
+  "name": "Rose Systemtechnik GmbH",
+  "stand": "706",
+  "plz": "32457",
+  "stadt": "Porta Westfalica",
+  "land": "Deutschland",
+  "nq": "rose systemtechnik",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2016,
+    "raw": "Rose Systemtechnik GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2017,
+    "raw": "ROSE Systemtechnik GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Roundpeg Technologies GmbH",
+  "stand": "534",
+  "plz": "85609",
+  "stadt": "Aschheim",
+  "land": "Deutschland",
+  "nq": "roundpeg technologies",
+  "hits": []
+ },
+ {
+  "name": "Ruhrbotics GmbH",
+  "stand": "419",
+  "plz": "45665",
+  "stadt": "Recklinghausen",
+  "land": "Deutschland",
+  "nq": "ruhrbotics",
+  "hits": []
+ },
+ {
+  "name": "SABO Elektronik GmbH",
+  "stand": "444",
+  "plz": "58239",
+  "stadt": "SCHWERTE",
+  "land": "Deutschland",
+  "nq": "sabo elektronik",
+  "hits": []
+ },
+ {
+  "name": "Sälzer Electric GmbH",
+  "stand": "236",
+  "plz": "09306",
+  "stadt": "Rochlitz",
+  "land": "Deutschland",
+  "nq": "saelzer electric",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2043,
+    "raw": "Sälzer Electric GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Schlager Industrieofenbau GmbH",
+  "stand": "238b",
+  "plz": "58093",
+  "stadt": "Hagen",
+  "land": "Deutschland",
+  "nq": "schlager industrieofenbau",
+  "hits": []
+ },
+ {
+  "name": "Schuhmacher Technologies & Hydraulics GmbH",
+  "stand": "523",
+  "plz": "78549",
+  "stadt": "Spaichingen",
+  "land": "Deutschland",
+  "nq": "schuhmacher technologies hydraulics",
+  "hits": []
+ },
+ {
+  "name": "SCHUNK SE & Co. KG",
+  "stand": "606",
+  "plz": "74348",
+  "stadt": "Lauffen",
+  "land": "Deutschland",
+  "nq": "schunk",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2123,
+    "raw": "Schunk Electronic Solutions GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2124,
+    "raw": "Schunk SE & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Seika Sangyo GmbH",
+  "stand": "726",
+  "plz": "40472",
+  "stadt": "Düsseldorf",
+  "land": "Deutschland",
+  "nq": "seika sangyo",
+  "hits": []
+ },
+ {
+  "name": "SES-STERLING GmbH",
+  "stand": "205",
+  "plz": "79576",
+  "stadt": "Weil am Rhein",
+  "land": "Deutschland",
+  "nq": "ses-sterling",
+  "hits": []
+ },
+ {
+  "name": "SEW-EURODRIVE GmbH & Co KG",
+  "stand": "719",
+  "plz": "76646",
+  "stadt": "BRUCHSAL",
+  "land": "Deutschland",
+  "nq": "sew-eurodrive",
+  "hits": [
+   {
+    "kind": "AEHNLICH 0.92",
+    "f": "bekannte",
+    "i": 2162,
+    "raw": "SEW Eurodrive\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2163,
+    "raw": "SEW-Eurodrive\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2164,
+    "raw": "SEW-EURODRIVE GmbH & Co KG\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2165,
+    "raw": "SEW-EURODRIVE GmbH & Co. KG\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2166,
+    "raw": "SEW-EURODRIVE GmbH & Co.KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "SIC Marking GmbH",
+  "stand": "437",
+  "plz": "42897",
+  "stadt": "Remscheid",
+  "land": "Deutschland",
+  "nq": "sic marking",
+  "hits": []
+ },
+ {
+  "name": "SIC! Software GmbH",
+  "stand": "201",
+  "plz": "74076",
+  "stadt": "Heilbronn",
+  "land": "Deutschland",
+  "nq": "sic! software",
+  "hits": []
+ },
+ {
+  "name": "Siemens AG                      149 + S-100",
+  "stand": "",
+  "plz": "70435",
+  "stadt": "Stuttgart",
+  "land": "Deutschland",
+  "nq": "siemens 149 s-100",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2178,
+    "raw": "Siemens\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2179,
+    "raw": "Siemens AG\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2180,
+    "raw": "SIEMENS AG\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2181,
+    "raw": "Siemens AG Energy Sector\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2182,
+    "raw": "Siemens Aktiengesellschaft\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2183,
+    "raw": "Siemens Bad Neustadt an der Saale\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2184,
+    "raw": "Siemens Energy\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2185,
+    "raw": "SIEMENS ENERGY\t[AT]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2186,
+    "raw": "Siemens Energy Global GmbH & Co. KG\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2187,
+    "raw": "Siemens Energy GmbH & Co. KG\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2188,
+    "raw": "SIEMENS HEALTHINEERS\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2189,
+    "raw": "Siemens Healthineers AG\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2190,
+    "raw": "SIEMENS HEATHINEERS\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "SK LASER GmbH",
+  "stand": "100",
+  "plz": "65205",
+  "stadt": "Wiesbaden",
+  "land": "Deutschland",
+  "nq": "sk laser",
+  "hits": []
+ },
+ {
+  "name": "SOMA GmbH",
+  "stand": "425",
+  "plz": "58579",
+  "stadt": "Schalksmühle",
+  "land": "Deutschland",
+  "nq": "soma",
+  "hits": []
+ },
+ {
+  "name": "Sonepar Deutschland GmbH",
+  "stand": "520",
+  "plz": "40468",
+  "stadt": "Düsseldorf",
+  "land": "Deutschland",
+  "nq": "sonepar",
+  "hits": []
+ },
+ {
+  "name": "Spectra GmbH & Co. KG",
+  "stand": "411",
+  "plz": "72768",
+  "stadt": "Reutlingen",
+  "land": "Deutschland",
+  "nq": "spectra",
+  "hits": []
+ },
+ {
+  "name": "Stäubli Tec Systems GmbH Fluid Connectors",
+  "stand": "731",
+  "plz": "95448",
+  "stadt": "Bayreuth",
+  "land": "Deutschland",
+  "nq": "staeubli tec systems fluid connectors",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2247,
+    "raw": "Stäubli Tec-Systems GmbH - Fluid Connectors - fast moving technology\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Stiwa AMS GmbH",
+  "stand": "423",
+  "plz": "4800",
+  "stadt": "Attnang-Puchheim",
+  "land": "Österreich",
+  "nq": "stiwa ams",
+  "hits": []
+ },
+ {
+  "name": "Stiwa Automation*",
+  "stand": "423",
+  "plz": "4800",
+  "stadt": "Attnang-Puchheim",
+  "land": "Österreich",
+  "nq": "stiwa automation",
+  "hits": []
+ },
+ {
+  "name": "Sumitomo (SHI) Cyclo Drive Germany GmbH",
+  "stand": "803",
+  "plz": "85229",
+  "stadt": "Markt Indersdorf",
+  "land": "Deutschland",
+  "nq": "sumitomo shi cyclo drive",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2273,
+    "raw": "Sumitomo\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2274,
+    "raw": "SUMITOMO\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "SW Automatisierung GmbH",
+  "stand": "234",
+  "plz": "5440",
+  "stadt": "Golling An Der Salzach",
+  "land": "Österreich",
+  "nq": "sw automatisierung",
+  "hits": []
+ },
+ {
+  "name": "symmedia GmbH",
+  "stand": "618",
+  "plz": "33602",
+  "stadt": "Bielefeld",
+  "land": "Deutschland",
+  "nq": "symmedia",
+  "hits": []
+ },
+ {
+  "name": "Talk Lounge",
+  "stand": "441",
+  "plz": "70469",
+  "stadt": "Stuttgart",
+  "land": "Deutschland",
+  "nq": "talk lounge",
+  "hits": []
+ },
+ {
+  "name": "Tele Radio GmbH",
+  "stand": "119",
+  "plz": "84069",
+  "stadt": "Schierling",
+  "land": "Deutschland",
+  "nq": "tele radio",
+  "hits": []
+ },
+ {
+  "name": "Telemeter Electronic GmbH",
+  "stand": "440",
+  "plz": "86609",
+  "stadt": "Donauwörth",
+  "land": "Deutschland",
+  "nq": "telemeter electronic",
+  "hits": []
+ },
+ {
+  "name": "TIVAL Sensors GmbH",
+  "stand": "215",
+  "plz": "42283",
+  "stadt": "Wuppertal",
+  "land": "Deutschland",
+  "nq": "tival sensors",
+  "hits": []
+ },
+ {
+  "name": "TR-Electronic GmbH",
+  "stand": "409",
+  "plz": "78647",
+  "stadt": "TROSSINGEN",
+  "land": "Deutschland",
+  "nq": "tr-electronic",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2386,
+    "raw": "TR-Electronic GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "TRsystems GmbH",
+  "stand": "409",
+  "plz": "78647",
+  "stadt": "TROSSINGEN",
+  "land": "Deutschland",
+  "nq": "trsystems",
+  "hits": []
+ },
+ {
+  "name": "Unchained Robotics GmbH",
+  "stand": "401",
+  "plz": "33106",
+  "stadt": "Paderborn",
+  "land": "Deutschland",
+  "nq": "unchained robotics",
+  "hits": []
+ },
+ {
+  "name": "Unis Group",
+  "stand": "146",
+  "plz": "9001 XZ",
+  "stadt": "Grou",
+  "land": "Niederlande",
+  "nq": "unis",
+  "hits": []
+ },
+ {
+  "name": "Unitronics GmbH",
+  "stand": "612",
+  "plz": "73734",
+  "stadt": "Esslingen",
+  "land": "Deutschland",
+  "nq": "unitronics",
+  "hits": []
+ },
+ {
+  "name": "VEGA Grieshaber KG",
+  "stand": "301",
+  "plz": "77761",
+  "stadt": "SCHILTACH",
+  "land": "Deutschland",
+  "nq": "vega grieshaber",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2470,
+    "raw": "VEGA Grieshaber KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "VIDEC Data Engineering GmbH",
+  "stand": "109",
+  "plz": "28203",
+  "stadt": "BREMEN",
+  "land": "Deutschland",
+  "nq": "videc data engineering",
+  "hits": []
+ },
+ {
+  "name": "Vision Center GmbH",
+  "stand": "238c",
+  "plz": "58239",
+  "stadt": "SCHWERTE",
+  "land": "Deutschland",
+  "nq": "vision center",
+  "hits": []
+ },
+ {
+  "name": "Vision4Quality GmbH",
+  "stand": "144",
+  "plz": "97074",
+  "stadt": "Würzburg",
+  "land": "Deutschland",
+  "nq": "vision4quality",
+  "hits": []
+ },
+ {
+  "name": "W. Gessmann GmbH",
+  "stand": "806",
+  "plz": "74211",
+  "stadt": "Leingarten",
+  "land": "Deutschland",
+  "nq": "w gessmann",
+  "hits": []
+ },
+ {
+  "name": "W.E.S.T Elektronik GmbH*",
+  "stand": "523",
+  "plz": "78549",
+  "stadt": "Spaichingen",
+  "land": "Deutschland",
+  "nq": "w e s t elektronik",
+  "hits": []
+ },
+ {
+  "name": "Wachendorff Prozesstechnik GmbH & Co. KG",
+  "stand": "623",
+  "plz": "65366",
+  "stadt": "Geisenheim",
+  "land": "Deutschland",
+  "nq": "wachendorff prozesstechnik",
+  "hits": []
+ },
+ {
+  "name": "Wagner GmbH",
+  "stand": "435",
+  "plz": "42489",
+  "stadt": "Wülfrath",
+  "land": "Deutschland",
+  "nq": "wagner",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2531,
+    "raw": "Wagner eCommerce Group GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "WAGO GmbH & Co. KG",
+  "stand": "808",
+  "plz": "32423",
+  "stadt": "Minden",
+  "land": "Deutschland",
+  "nq": "wago",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2532,
+    "raw": "WAGO GmbH & Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Walter Rothermundt GmbH & Co. KG",
+  "stand": "716",
+  "plz": "41199",
+  "stadt": "Mönchengladbach",
+  "land": "Deutschland",
+  "nq": "walter rothermundt",
+  "hits": [
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2534,
+    "raw": "Walter Kraus GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "WEG Germany GmbH",
+  "stand": "421",
+  "plz": "50169",
+  "stadt": "Kerpen",
+  "land": "Deutschland",
+  "nq": "weg",
+  "hits": []
+ },
+ {
+  "name": "Weidmüller GmbH & Co. KG",
+  "stand": "307",
+  "plz": "32758",
+  "stadt": "Detmold",
+  "land": "Deutschland",
+  "nq": "weidmueller",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2552,
+    "raw": "Weidmueller Monitoring Systems GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2553,
+    "raw": "Weidmüller GmbH & Co. KG\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2554,
+    "raw": "Weidmüller Interface GmbH & Co. KG\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2555,
+    "raw": "Weidmüller Monitoring Systems GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Weisbauer Elektronik- Vertriebsgesellschaft m.b.H.",
+  "stand": "124",
+  "plz": "44135",
+  "stadt": "Dortmund",
+  "land": "Deutschland",
+  "nq": "weisbauer elektronik- vertriebsgesellschaft m b h",
+  "hits": []
+ },
+ {
+  "name": "wenglor sensoric GmbH (Germany)",
+  "stand": "442",
+  "plz": "88069",
+  "stadt": "Tettnang",
+  "land": "Deutschland",
+  "nq": "wenglor sensoric",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2562,
+    "raw": "wenglor sensoric\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2563,
+    "raw": "wenglor sensoric elektronische Geräte GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2564,
+    "raw": "wenglor sensoric GmbH\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "WERMA Signaltechnik GmbH + Co. KG",
+  "stand": "107",
+  "plz": "78604",
+  "stadt": "Rietheim-Weilheim",
+  "land": "Deutschland",
+  "nq": "werma signaltechnik",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2569,
+    "raw": "WERMA Signaltechnik GmbH + Co. KG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Wieland Electric GmbH",
+  "stand": "431",
+  "plz": "96052",
+  "stadt": "Bamberg",
+  "land": "Deutschland",
+  "nq": "wieland electric",
+  "hits": [
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2579,
+    "raw": "WIELAND\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2580,
+    "raw": "Wieland Electric\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2581,
+    "raw": "Wieland Electric GmbH\t[DE]"
+   },
+   {
+    "kind": "WORTWURZEL",
+    "f": "bekannte",
+    "i": 2582,
+    "raw": "Wieland Werke AG\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "WIN SOURCE ELECTRONICS GMBH",
+  "stand": "105",
+  "plz": "80993",
+  "stadt": "München",
+  "land": "Deutschland",
+  "nq": "win source electronics",
+  "hits": []
+ },
+ {
+  "name": "WITTENSTEIN SE",
+  "stand": "624",
+  "plz": "97999",
+  "stadt": "Igersheim",
+  "land": "Deutschland",
+  "nq": "wittenstein",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2605,
+    "raw": "WITTENSTEIN\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2606,
+    "raw": "Wittenstein\t[DE]"
+   },
+   {
+    "kind": "PRAEFIX",
+    "f": "bekannte",
+    "i": 2607,
+    "raw": "Wittenstein cyber motor GmbH\t[DE]"
+   },
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2608,
+    "raw": "Wittenstein SE\t[DE]"
+   }
+  ]
+ },
+ {
+  "name": "Yaskawa Europe GmbH - Drives Motion Controls Division",
+  "stand": "630",
+  "plz": "65795",
+  "stadt": "HATTERSHEIM AM MAIN",
+  "land": "Deutschland",
+  "nq": "yaskawa europe - drives motion controls division",
+  "hits": []
+ },
+ {
+  "name": "Yello NetCom GmbH",
+  "stand": "207",
+  "plz": "48432",
+  "stadt": "RHEINE",
+  "land": "Deutschland",
+  "nq": "yello netcom",
+  "hits": []
+ },
+ {
+  "name": "Zeichentechnik Rosenbaum GmbH & Co. KG",
+  "stand": "208",
+  "plz": "45307",
+  "stadt": "Essen",
+  "land": "Deutschland",
+  "nq": "zeichentechnik rosenbaum",
+  "hits": [
+   {
+    "kind": "IDENTISCH",
+    "f": "bekannte",
+    "i": 2644,
+    "raw": "Zeichentechnik Rosenbaum GmbH & Co. KG\t[DE]"
+   }
+  ]
+ }
+]
