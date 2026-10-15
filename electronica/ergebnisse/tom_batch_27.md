@@ -75,7 +75,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md gelesen (Gruppe 1 vollständig
 2. Segment / Demak-Geschäftsbereich: keiner (Service für Vakuumpumpen, anderer Markt)
 3. Gebiet: Bayern (Eching)
 4. Sitz und Fertigungsort: Gleiwitzer Straße 8, 85386 Eching (laut Kontaktangabe im Suchtreffer, S). 2.250 m² Produktions- und Serviceflächen (SEMI-Verzeichnis, S). Seit 2018 Tochter von Shimadzu (Japan); seit April 2021 mit Shimadzu Fluidics Systems Europe verschmolzen (S).
-5. Website: infraserv-vakuum.de (nicht geprüft; Domain nicht aus Quelle belegt, daher nur Hinweis) – laut Suchtreffern siehe Quellen
+5. Website: unbekannt (Domain in den Suchtreffern nicht genannt; Firmenprofil siehe Feld 14)
 6. Was wird gebaut: Reparatur, Wartung und Leckprüfung von Vakuumpumpen (Leybold, Pfeiffer, Edwards, Agilent, ULVAC u. a.), Handel mit neuen und gebrauchten Pumpen und Ersatzteilen (S); über Shimadzu Fluidics Hydraulikpumpen und Ventilblöcke im Portfolio (S). Typisch vergossen/verklebt: Pumpenantriebe/Motoren der gewarteten Pumpen (A), aber Service, keine Serienfertigung eigener Produkte.
 7. Fertigung DE/AT/NL: Niedrig, Stufe S. Begründung: Service-/Reparaturbetrieb und Handel; keine Serienfertigung eigener Geräte belegt (Regel E2).
 8. Verguss/Bonding (höchstes Bauteil): Niedrig, Stufe A. Einzelbewertung: Reparaturteile/Pumpen-Antriebe Niedrig (A, Reparatur statt Serie), Hydraulikpumpen/Ventilblöcke (Shimadzu Fluidics, Handel) Niedrig (A).
@@ -192,7 +192,7 @@ Wettbewerber-Abgleich: wettbewerber_referenzen.md gelesen (Gruppe 1 vollständig
 12. CRM-Status: neu (crm_abgleich.py "Intermas-Elcom GmbH", "Intermas", "Elcom": kein Treffer; Konzern nicht ermittelt)
 13. Nachrecherche-Auftrag und Aktion: (a) Werden Gehäuse/Racks in Darmstadt gefertigt oder zugekauft? Standort- und Impressumsseite lesen. (b) Gehört Intermas-Elcom zu einer Gruppe (Regel M)? (c) Werden Dichtungen aufgeschäumt/dosiert (FIPFG)? Datenblätter lesen. Aktion: keine Kontaktaufnahme vor (a) und (b).
 14. Quellen:
-- https://www.it-in-germany.de/firma/Intermas-Elcom+GmbH/5019384/52266/deu – Daimlerweg 6, 64293 Darmstadt, Herstellung und Vertrieb von Elektronikschränken, Gehäusen, Baugruppenträgern (Verzeichnis, Suchzusammenfassung, S); Abruf 2026-10-15.
+- https://www.it-in-germany.de/firma/Intermas-Elcom+GmbH/5019384/52266/deu – „Herstellung und Vertrieb von Elektronikschränken, Gehäusen, Baugruppenträgern“, Daimlerweg 6, 64293 Darmstadt (Verzeichnis, Suchzusammenfassung, S); Abruf 2026-10-15.
 - https://railmarket.com/eu/profile/intermas-elcom-gmbh – Firmenprofil mit gleicher Beschreibung (Suchzusammenfassung, S); Abruf 2026-10-15.
 - https://cryptomuseum.com/manuf/elcom/index.htm – Elcom wurde mit AEG-INTERMAS zu INTERMAS-ELCOM GmbH (Suchzusammenfassung, S); Abruf 2026-10-15.
 15. Größe/Umsatz: unbekannt
