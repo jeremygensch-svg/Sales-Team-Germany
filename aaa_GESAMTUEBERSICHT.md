@@ -1,6 +1,6 @@
 # all about automation Düsseldorf 2026 – Ergebnis Tom v2 + Tina v2 (Stand 2026-10-15)
 
-235 Aussteller laut Liste. 41 davon stehen bereits im CRM (`aaa_nicht_aufgenommen.md`), 54 wurden in der Triage aussortiert (Händler, Software, Beratung, Verbände, Fertigung nur außerhalb DE/AT/NL; `aaa_ergebnisse/triage_0X.md`). **127 Firmen wurden von Tom und Tina geprüft: 25 GRÜN, 100 GELB, 2 ROT.** Vollständige Tabelle mit allen 127: `aaa_liste_ergebnis.csv` (Excel, Semikolon-getrennt).
+235 Aussteller laut Liste. 41 davon stehen bereits im CRM (`aaa_nicht_aufgenommen.md`), 54 wurden in der Triage aussortiert (Händler, Software, Beratung, Verbände, Fertigung nur außerhalb DE/AT/NL; `aaa_ergebnisse/triage_0X.md`). **127 Firmen wurden von Tom und Tina geprüft: 25 GRÜN, 100 GELB, 2 ROT.** Vollständige Tabelle mit allen 127: `aaa_Aussteller_Ampel.xlsx`.
 
 ## Wichtig zur Belastbarkeit (bitte vor Weitergabe lesen)
 
@@ -54,7 +54,7 @@
 - Wagner GmbH (435) | kein Fertiger: GELB (Rot-Kandidat E2)
 - Yaskawa Europe GmbH – Drives Motion Controls Division (630) | unwahrscheinlich: GELB (Rot-Kandidat E3)
 
-Alle 100 Gelb-Firmen mit Sitz, Gebiet, CRM-Status und konkretem Nachrecherche-Auftrag: `aaa_liste_ergebnis.csv`.
+Alle 100 Gelb-Firmen mit Sitz, Gebiet, CRM-Status und konkretem Nachrecherche-Auftrag: `aaa_Aussteller_Ampel.xlsx`.
 
 ## Fälle für Jey (CRM-Konzernbezug / Identität)
 
