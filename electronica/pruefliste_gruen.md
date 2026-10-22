@@ -14,7 +14,7 @@ Stand 2026-10-22. Zweck: Die 46 Grün-Ampeln aus dem Tom/Tina-Lauf sind nur vorl
 
 - Verbände, Prüfdienstleister und Forschungsorganisationen: raus.
 - Firmen im CRM (gleicher oder sehr ähnlicher Name): raus.
-- Anlagenbauer: raus, außer Verguss-/Dosieranlagen oder etwas, das Demak anbietet.
+- Anlagenbauer bleiben drin. Nur wenn ein Anlagenbauer selbst Verguss- oder Dosieranlagen baut oder vertreibt (oder etwas anbietet, das Demak anbietet), fällt er raus (E1, Wettbewerber). Korrektur von Jey, 22.10.
 
 ## Die 46 Grün-Kandidaten
 
