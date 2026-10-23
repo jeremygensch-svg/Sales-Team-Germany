@@ -7,7 +7,7 @@ from aaaparse import demak,cut
 os.chdir(ROOT)
 wb=load_workbook('aussendienst/electronica_2026_Aussendienst.xlsx'); ws=wb['Zielfirmen']
 todo=[r for r in ws.iter_rows(min_row=5,values_only=True) if r[0] in 'ABC' and str(r[7]).startswith('vorläufig')]
-det={nk(x['firma'])[:10]:x for x in load()}
+det={nk(x['firma'])[:10]:x for x in load()[0]}
 order={'A':0,'B':1,'C':2}; todo.sort(key=lambda r:(order[r[0]],str(r[3]),r[1].lower()))
 L=["# electronica 2026 – Browser-Prüfliste für die restlichen Zielfirmen","",
 f"Stand {__import__('datetime').date.today()}. {len(todo)} Firmen aus der Außendienst-Excel (Prio A/B/C), die noch nicht im Browser geprüft sind (Spalte Prüfstand = vorläufig). Reihenfolge: Prio A (Grün-Kandidaten, vor allem Anlagenbauer), dann B, dann C, je Gebiet.","",
