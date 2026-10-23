@@ -14,6 +14,7 @@ def load():
         b=_B.get(_nkk(d['firma'])[:10])
         if b:
             d['amp']=b['amp']; d['zeile']=b['zeile']; d['zus']=''; d['browser']=b
+            if b.get('web'): d['web']=b['web']
         out.append(d)
     return out
 def first_sentence(s,n):
@@ -38,10 +39,10 @@ for d in load():
         pruef='Browser geprüft 22.10.: '+('Grün bestätigt' if b['amp']=='GRÜN' and 'schwach' not in b['begr'] else ('Grün (schwach)' if b['amp']=='GRÜN' else 'Gelb – offen'))
         nach=b['auftrag'] if b['amp']=='GELB' else ''
         if b['amp']=='GRÜN': nach='Im Gespräch erfragen: Verguss/Klebung/Dichtung am Produkt'
-    rows.append(dict(amp=amp,prio=prio,firma=d['firma'],stand=d['stand'],reg=reg,ort=ort,
+    rows.append(dict(web=d.get('web',''),amp=amp,prio=prio,firma=d['firma'],stand=d['stand'],reg=reg,ort=ort,
         was=re.sub(r'\s*\((?:Triage|Verzeichnis)[^)]*\)','',re.sub(r'^(Verzeichnis nennt|Laut Verzeichnis:?)\s*','',first_sentence(d['was'],170))),bereich=demak(d['seg']),
         klaeren=cut(nach,230) if nach else ('Fertigung vor Ort und Verguss im Gespräch erfragen (nur Sitz und Produkttyp belegt)' if amp=='GRÜN' else ''),
-        crm=crmk,raus=classify(d),pruef=pruef))
+        crm=crmk,raus=classify(d),pruef=pruef,seg=d['seg']))
 
 import glob
 def _nk(x): return re.sub(r'[^a-z0-9]','',x.lower())
@@ -76,7 +77,13 @@ def _stand(x):
     m=_re.search(r'[A-C]\d\.[\dA-Z/]+',x)
     return m.group(0) if m else x
 for r in rows:
-    r.setdefault('pruef','Bestandskunde laut CRM-Namensabgleich')
+    r.setdefault('pruef','Bestandskunde laut CRM-Namensabgleich'); r.setdefault('web','')
+    b_=r.get('bereich','')
+    q=[]
+    if 'Verguss' in b_: q.append('Werden Elektronik-Baugruppen/Sensoren bei Ihnen vergossen (Vergussmasse, Dosieranlage)?')
+    if 'Verklebung' in b_: q.append('Wie werden Displays/Touch/Sensoren verklebt (Optical Bonding)?')
+    if 'Dichtung' in b_ and not q: q.append('Wie werden Gehäuse abgedichtet (Schaumdichtung, Dichtraupe)?')
+    r['frage']=' '.join(q) if q else 'Gibt es Eigenfertigung am Standort, bei der Teile vergossen, verklebt oder abgedichtet werden?'
     if r.get('raus'): r['klaeren']=r['raus']; r['prio']='–'
     r['stand']=_stand(r['stand']); r['reg']=r['reg'].replace('Sitz Rest DE / NL','Rest DE / NL')
     if r['prio'] in 'BC' and r['bereich']=='kein klarer Bereich' and not any(a in r['firma'].lower() for a in ANLAGEN): r['prio']='D'
@@ -106,7 +113,9 @@ def sheet(ws,data,cols,widths,title):
     for r,d in enumerate(data,hr+1):
         for c,(h,key) in enumerate(cols,1):
             v=d[key] if key else ''
-            x=ws.cell(r,c,v); x.font=Font(name=F,size=10,bold=(key=='firma' or key=='prio')); x.alignment=Alignment(wrap_text=True,vertical='top',horizontal='center' if h in('Prio','Stand') else 'left'); x.border=bd
+            x=ws.cell(r,c,v); x.font=Font(name=F,size=10,bold=(key=='firma' or key=='prio'),color='0563C1' if (key=='web' and v) else '000000',underline='single' if (key=='web' and v) else None)
+            if key=='web' and v: x.hyperlink='https://'+v
+            x.alignment=Alignment(wrap_text=True,vertical='top',horizontal='center' if h in('Prio','Stand') else 'left'); x.border=bd
             if key=='prio': x.fill=PatternFill('solid',fgColor=fills[d['prio']])
         # leichte Zebra-Streifen
         if (r-hr)%2==0:
@@ -118,13 +127,13 @@ def sheet(ws,data,cols,widths,title):
     ws.sheet_properties.pageSetUpPr.fitToPage=True; ws.print_title_rows=f'{hr}:{hr}'
     ws.page_margins.left=ws.page_margins.right=0.4
 for k in json.load(open('electronica/crm_bekannt.json'))['known']:
-    rows.append(dict(amp='ROT',prio='–',pruef='Bestandskunde laut CRM-Namensabgleich',firma=k['name'],stand=k['stand'],reg='',ort=(k['plz']+' '+k['ort']).strip(),was=k.get('hint',''),bereich='',klaeren='Bestandskunde laut CRM-Namensabgleich – nicht ansprechen, Zuständigen im Haus fragen',crm='Bestandskunde im CRM'))
+    rows.append(dict(amp='ROT',prio='–',pruef='Bestandskunde laut CRM-Namensabgleich',web='',frage='',firma=k['name'],stand=k['stand'],reg='',ort=(k['plz']+' '+k['ort']).strip(),was=k.get('hint',''),bereich='',klaeren='Bestandskunde laut CRM-Namensabgleich – nicht ansprechen, Zuständigen im Haus fragen',crm='Bestandskunde im CRM'))
 rows.sort(key=lambda r:(order[r['prio']],r['firma'].lower()))
 act=[r for r in rows if r['prio'] in 'ABC']; eher=[r for r in rows if r['prio']=='D']; rot=[r for r in rows if r['prio']=='–']
-cols=[('Prio','prio'),('Firma','firma'),('Stand','stand'),('Vertriebsgebiet','reg'),('Ort','ort'),('Was wird gebaut','was'),('Demak-Bereich','bereich'),('Prüfstand','pruef'),('Vor dem Kontakt klären','klaeren'),('CRM-Hinweis','crm'),('Besuch / Kontakt am',None),('Ergebnis / Notiz',None)]
-w=[6,30,8,18,18,42,24,30,52,32,14,30]
+cols=[('Prio','prio'),('Firma','firma'),('Stand','stand'),('Vertriebsgebiet','reg'),('Ort','ort'),('Website','web'),('Was wird gebaut','was'),('Demak-Bereich','bereich'),('Prüfstand','pruef'),('Gesprächsfrage','frage'),('Vor dem Kontakt klären','klaeren'),('CRM-Hinweis','crm'),('Besuch / Kontakt am',None),('Ergebnis / Notiz',None)]
+w=[6,30,8,18,18,24,42,22,28,40,52,30,14,30]
 ws=wb.active; ws.title='Zielfirmen'; sheet(ws,act,cols,w,'Außendienst – Zielfirmen electronica 2026 München')
-ws3=wb.create_sheet('Eher nicht (kein Bereich)'); sheet(ws3,eher,cols[:10],w[:10],'Eher nicht ansprechen – kein Demak-Bereich erkennbar')
+ws3=wb.create_sheet('Eher nicht (kein Bereich)'); sheet(ws3,eher,cols[:11],w[:11],'Eher nicht ansprechen – kein Demak-Bereich erkennbar')
 for r in rows:
     r['reg']={'Baden-Württemberg':'Baden-Württemberg (Stefan)','Bayern':'Bayern (Dietmar)','Rest DE / NL':'Rest DE / NL (Manuel)'}.get(r['reg'],r['reg'])
 lands={}
@@ -133,7 +142,7 @@ pri=['Baden-Württemberg (Stefan)','Bayern (Dietmar)','Rest DE / NL (Manuel)','�
 for land in pri+sorted(l for l in lands if l not in pri):
     if land not in lands: continue
     w_=wb.create_sheet(land[:31].replace('/','-')); sheet(w_,lands[land],cols,w,'Zielfirmen electronica 2026 – '+land)
-ws2=wb.create_sheet('Nicht ansprechen'); sheet(ws2,rot,cols[:10],w[:10],'Nicht ansprechen / bereits Bestandskunde')
+ws2=wb.create_sheet('Nicht ansprechen'); sheet(ws2,rot,cols[:11],w[:11],'Nicht ansprechen / bereits Bestandskunde')
 h=wb.create_sheet('Hinweise'); h.sheet_view.showGridLines=False; h.column_dimensions['A'].width=22; h.column_dimensions['B'].width=120
 h['A1']='Hinweise zur Liste'; h['A1'].font=Font(name=F,size=14,bold=True,color=navy)
 items=[('Prioritäten',''),
@@ -157,7 +166,31 @@ for i,(a,b) in enumerate(items,3):
     if a=='A (grün)': h.cell(i,1).fill=PatternFill('solid',fgColor=fills['A'])
     if a=='B (gelb)': h.cell(i,1).fill=PatternFill('solid',fgColor=fills['B'])
     if a=='C (orange)': h.cell(i,1).fill=PatternFill('solid',fgColor=fills['C'])
+ov=wb.create_sheet('Übersicht',0); ov.sheet_view.showGridLines=False
+ov['A1']='electronica 2026 München – Übersicht Außendienst'; ov['A1'].font=Font(name=F,size=14,bold=True,color=navy)
+ov['A2']='Stand 23.10.2026 · Ergebnisse siehe Blatt "Hinweise"'; ov['A2'].font=Font(name=F,size=9,italic=True,color='595959')
+gebs=['Baden-Württemberg (Stefan)','Bayern (Dietmar)','Rest DE / NL (Manuel)','Österreich','außerhalb']
+hd=['Vertriebsgebiet','Prio A','Prio B','Prio C','Zielfirmen gesamt','davon im Browser geprüft']
+for c,h in enumerate(hd,1):
+    x=ov.cell(4,c,h); x.font=Font(name=F,bold=True,color='FFFFFF',size=10); x.fill=PatternFill('solid',fgColor=navy); x.border=bd; x.alignment=Alignment(horizontal='center' if c>1 else 'left',wrap_text=True)
+    ov.column_dimensions[x.column_letter].width=30 if c==1 else 16
+for i,g in enumerate(gebs,5):
+    ov.cell(i,1,g)
+    for j,pr in enumerate('ABC',2): ov.cell(i,j,sum(1 for r in act if r['reg']==g and r['prio']==pr))
+    ov.cell(i,5,sum(1 for r in act if r['reg']==g)); ov.cell(i,6,sum(1 for r in act if r['reg']==g and r['pruef'].startswith('Browser')))
+n=len(gebs)+5
+ov.cell(n,1,'Gesamt')
+for j in range(2,7): ov.cell(n,j,sum(ov.cell(i,j).value for i in range(5,n)))
+for i in range(5,n+1):
+    for j in range(1,7):
+        x=ov.cell(i,j); x.font=Font(name=F,size=10,bold=(i==n)); x.border=bd; x.alignment=Alignment(horizontal='center' if j>1 else 'left')
+ov.page_setup.orientation='landscape'; ov.page_setup.fitToWidth=1; ov.page_setup.fitToHeight=0; ov.sheet_properties.pageSetUpPr.fitToPage=True
+ov.cell(n+2,1,'Weitere Blätter').font=Font(name=F,bold=True,size=10,color=navy)
+for k,t in enumerate([f'Eher nicht (kein Bereich): {len(eher)} Firmen ohne erkennbaren Demak-Bereich',f'Nicht ansprechen: {len(rot)} Firmen (Bestandskunden/CRM, Verbände, Prüfdienstleister, Forschung)','Hinweise: Prioritäten, Prüfstand, Gesprächsführung'],n+3):
+    ov.cell(k,1,t).font=Font(name=F,size=10)
 wb._sheets=[x for x in wb._sheets if x.title not in ('Eher nicht (kein Bereich)','Nicht ansprechen','Hinweise')]+[wb['Eher nicht (kein Bereich)'],wb['Nicht ansprechen'],wb['Hinweise']]
+wb._sheets=[wb['Übersicht']]+[x for x in wb._sheets if x.title!='Übersicht']
+wb.active=0
 wb.save('aussendienst/electronica_2026_Aussendienst.xlsx')
 from collections import Counter
 print(Counter(r['prio'] for r in rows))

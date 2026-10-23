@@ -14,6 +14,13 @@ def find(bl,firma):
         if k and k in h: return b
     return ''
 D=ROOT+'/electronica/ergebnisse/'
+BADHOST=('semi.org','bayern-international','electronica','northdata','wikipedia','linkedin','provenexpert','handelsregister','opencorporates','kompass','europages','dnb.com','firmenwissen','wlw.de','xing','openregister','metoree','german-pavilion','medtec','facebook','google','techpilot','indeed','stepstone')
+def _web(w):
+    for m in re.finditer(r'https?://[^\s)\],;"]+|(?<![\w@.])www\.[\w.-]+\.[a-z]{2,}[^\s)\],;"]*',w or ''):
+        u=m.group(0).rstrip('.')
+        h=re.sub(r'^https?://','',u).split('/')[0].lower()
+        if not any(b in h for b in BADHOST): return re.sub(r'^https?://','',h)
+    return ''
 def load():
     rows=[];warn=[]
     for n in range(1,63):
@@ -41,7 +48,7 @@ def load():
             if not nach and amp=='GELB': warn.append((n,i,'kein Nachrecherche'))
             reg,ort=region_ort(fld(3,t))
             rows.append(dict(amp=amp,zus=zus+' '+zt,zeile=zeile,stich=c[-1],firma=firma.replace('*','').strip(),stand=stand,reg=reg,ort=ort,
-              seg=fld(2,t),crm=fld(12,t),was=fld(6,t),nach=nach,b=n,nr=i,sitz=fld(4,t),gebiet=fld(3,t),nicht=(lambda m:m.group(1).strip() if m else '')(re.search(r'(?m)^- \**Nicht verwendbare Aussagen[^:]*:\**\s*(.*)$',k)),ferti=fld(7,t),verg=fld(8,t)))
+              seg=fld(2,t),crm=fld(12,t),was=fld(6,t),nach=nach,b=n,nr=i,web=_web(fld(5,t)),sitz=fld(4,t),gebiet=fld(3,t),nicht=(lambda m:m.group(1).strip() if m else '')(re.search(r'(?m)^- \**Nicht verwendbare Aussagen[^:]*:\**\s*(.*)$',k)),ferti=fld(7,t),verg=fld(8,t)))
         
     return rows,warn
 if __name__=='__main__':
@@ -70,5 +77,6 @@ def load_browser():
             z=re.search(r'Tabellenzeile D: (\d)',a.group(2))
             par=re.search(r'\(([^()]*(?:\([^()]*\))?[^()]*)\)',a.group(2).split('Tabellenzeile D')[0]+ (a.group(2).split('Tabellenzeile D')[1] if 'Tabellenzeile D' in a.group(2) else ''))
             au=re.search(r'(?mi)^- (?:OFFENER AUFTRAG|Offener Auftrag)[^:]*:\s*(.*)$',body)
-            out[nk(firma)[:10]]=dict(amp=a.group(1),zeile=int(z.group(1)) if z else 7,begr=a.group(2).strip(),auftrag=au.group(1).strip() if au else '',firma=firma)
+            idl=re.search(r'(?m)^- Identität[^\n]*?(https?://[^\s)"]+)',body); web=_web(idl.group(1)) if idl else ''
+            out[nk(firma)[:10]]=dict(web=web,amp=a.group(1),zeile=int(z.group(1)) if z else 7,begr=a.group(2).strip(),auftrag=au.group(1).strip() if au else '',firma=firma)
     return out
