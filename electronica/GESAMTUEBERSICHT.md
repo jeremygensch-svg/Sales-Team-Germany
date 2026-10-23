@@ -66,3 +66,9 @@ Stand 2026-10-22. Messe electronica 2026 München, Ausstellerliste Export 03.07.
 - Patentrecherche und Stufe-V-Belege im Browser nachholen.
 
 Dateien: `aussendienst/electronica_2026_Aussendienst.xlsx`, `electronica/electronica_Aussteller_Ampel.xlsx`, `electronica/ergebnisse/`.
+
+## Nachtrag 23.10.2026
+
+- Regel-Korrektur (Jey): **Anlagenbauer bleiben drin**. Raus nur bei eigenen Verguss-/Dosieranlagen (E1). Verbände/Prüfdienstleister/Forschung und CRM-Firmen (gleicher/ähnlicher Name) bleiben raus.
+- Die 46 Grün-Kandidaten wurden am 22.10. im Browser geprüft (`electronica/ergebnisse_browser/gruen_01–05.md`): 34 Grün (29 bestätigt, 5 schwach), 12 Gelb. Die zuvor ausgesonderten Anlagenbauer-Grün (15 Firmen: CRS Prüftechnik, CTS, Diener, E+H Metrology, FIXTEST, GÖPEL, Intego, MK Versuchsanlagen, Ramgraber, SENTECH, UniTemp, Viscom, Vistec, Walter Lemmen, Werner Lieb) sind wieder in der Liste, aber noch **nicht** im Browser geprüft.
+- Außendienst-Excel: 251 Zielfirmen (A 49, B 152, C 50), nach Vertriebsgebiet (Stefan BW, Dietmar Bayern, Manuel Rest DE/NL), Spalte „Prüfstand“ zeigt, was im Browser belegt ist.
