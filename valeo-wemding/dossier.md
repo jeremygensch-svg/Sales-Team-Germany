@@ -20,9 +20,29 @@ Stand 2026-11-23. Quelle: nur Websuche-Treffer (Stufe S), keine Seite im Browser
 ## Zielrollen in Wemding
 Aus Stellenanzeigen (connexion-emploi.com, Valeo-Ausschreibungen, teils archiviert) – zeigt, welche Rollen es gibt, keine Personen:
 - Produktion/Werk: Senior Site General Manager (laut Valeo-Mitteilung Markus Hein – bitte aktuell prüfen), Assistenz Werkleitung; Teamleiter Produktion nicht gefunden.
-- Industrialisierung: Teamleader Industrial Engineering, Senior Industrial Engineer Product Line Ranging Sensors, Industrial Engineer VDS, Industrial Project Manager, Industrial Project Team Member (u. a. Vision, Central Process Engineering), Process Project Team Member, Project Process Manager, Methods/Process Engineering Manager, Project Launch Manager.
+- Industrialisierung (Rollenbild, siehe Tabelle unten): Teamleader Industrial Engineering, Senior Industrial Engineer Product Line Ranging Sensors, Industrial Engineer VDS, Industrial Project Manager, Industrial Project Team Member (u. a. Vision, Central Process Engineering), Process Project Team Member, Project Process Manager, Methods/Process Engineering Manager, Project Launch Manager.
 - Einkauf/Lieferkette: Wemding-eigene Einkaufsstellen nicht gefunden. Gefunden: Teamleiter Supply Chain Management, Logistic Flows Analyst, PG Commodity SQA Leader, Teamleiter SQA/Wareneingang. Einkäufer-Stellen („Productivity Buyer“, „Project Buyer“) laufen über Bietigheim-Bissingen. Einkauf bei Valeo ist wahrscheinlich nach Product Group/Commodity zentral organisiert; über die Brain Division in Bietigheim klären.
 - Techniker/Anlagen: Verpackungstechniker, Teamleiter Facility Maintenance, Projects & Energie.
+
+## Stellenanzeigen Industrialisierung (Stand 23.11.2026, nur Suchtext-Zusammenfassungen)
+Die Anzeigenseiten selbst waren von hier nicht abrufbar (Domain connexion-emploi.com gesperrt). Archivdaten laut Suchtext. **Korrektur:** Die fünf zuerst genannten Titel sind alle alt; aktuell wirken nur die drei Industrial/Process-Project-Team-Member-Anzeigen.
+
+| Stelle | Stand | Aufgaben / Profil (Suchtext) |
+|---|---|---|
+| Teamleader Industrial Engineering | archiviert 09.07.2020 | Führung Industrial Team in der ACT7, Anlagen-/Prozessplanung, Kapazität, FMEA, Kostenverbesserung, Anläufe, Audits. Ing.-Studium E-Technik/Elektronik, Erfahrung, FMEA/PDCA/FTA/SPC |
+| Senior Industrial Engineer Product Line Ranging Sensors | archiviert 04.07.2023 | mind. 7 Jahre Industrial/Process Engineering Management; Aufgabenliste nicht erhalten |
+| Industrial Projekt Manager | archiviert 09.09.2022 | Validierung Produktionsprozesse, Änderungsmanagement, Automatisierungserfahrung Automotive, Reisen zu Lieferanten/Valeo-Standorten (frühere Fassungen: Investitionsrechnung, Muster, Anlaufüberwachung, RAISE) |
+| Methods / Process Engineering Manager | archiviert 19.02.2020 | Führung der Prozess-Engineering-Teams im Process Expertise Center; Erfahrung Supply Chain/Produktion/Manufacturing Engineering |
+| Project Launch Manager | archiviert 05.11.2024 | Projektbudget/Ressourcen am Standort, Reviews, Meilensteine, Abstimmung mit anderen Site Launch Managern; Ing.-Studium, Englisch |
+| Industrial Project Team Member (m/w/d) | laut Suchtext vor 3 Tagen aktualisiert | Ingenieurrolle Industrialisierung; Details nicht erhalten |
+| Process Project Team Member (m/w/d) | laut Suchtext vor 1 Tag aktualisiert | Industrial-Engineering-Mitglied in Projektteams, Kundenaudits, Maßnahmenverfolgung bei Anläufen, RAISE |
+| Industrial Project Team Member – Central Process Engineering | ZipRecruiter 20.07.2026; eine Kopie archiviert 15.10.2026 | Industrial-Projekte koordinieren, Produktionskonzepte und Investitionsrechnung in der Angebotsphase, Termine/Budget, technische Kundenunterstützung; Studium E-Technik/Mechatronik/Maschinenbau/Produktionstechnik |
+
+Weitere ähnliche Titel: Industrial Engineer VDS, Industrial Project Manager Laserscanner, Projektmanager Serienanlauf, Project Process Manager, Trainee Project Management / Process Engineering. Keine Anzeige nennt Kleben, Dispensen, Vergießen oder Dichten ausdrücklich; Methodik: RAISE, FMEA.
+
+## Kontakt Werkleitung
+- Markus Hein, Senior Site General Manager Valeo Wemding (Valeo-Artikel, Zitat zu autonomem Fahren). Persönliche Kontaktdaten (E-Mail, Durchwahl, LinkedIn) nicht gefunden.
+- Zentrale Wemding laut Suchtext: +49 9092 603-0. Straße nicht bestätigt (PLZ 86650).
 
 ## Vorschlag Ansprache
 1. Industrialisierung (Industrial Engineer / Process Engineering): fachlicher Einstieg, entscheidet Prozess und Anlage.
