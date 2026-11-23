@@ -60,3 +60,11 @@ Keine Kontaktdaten gesammelt; Personen nur über CRM, LinkedIn oder Werks-Telefo
 - https://www.connexion-emploi.com/de/o/teamleader-industrial-engineering-m-w-d-wemding
 - https://www.connexion-emploi.com/de/o/senior-industrial-engineer-product-line-ranging-sensors-m-w-d-wemding
 - https://www.connexion-emploi.com/de/o/team-lead-supply-chain-w-w-d-wemding
+
+## Personen (Stand 23.11.2026)
+- Öffentlich per Websuche gefunden: nur Markus Hein (Senior Site General Manager). Produktionsleiter, Industrialisierung (Leitung/Ingenieure/Techniker) und Einkauf in Wemding sind namentlich nicht auffindbar (keine Pressemeldung, kein Impressum, LinkedIn-Treffer nicht verwertbar). Keine Namen geraten.
+- Suche auf LinkedIn (manuell oder Sales Navigator): Unternehmen „Valeo“, Ort „Wemding“ bzw. „Donau-Ries“, Titel (Industrial Engineering Manager OR Industrial Project Manager OR Process Engineering OR Teamleader Industrial OR Production Manager OR Operations Manager OR Supply Chain OR SQA). Einkauf: Valeo Brain Division, Bietigheim-Bissingen (Buyer, Commodity Manager, Projects Purchasing Manager Product Line Compute).
+- Warme Einstiege aus unserem CRM (bekannte_kontakte_DE-AT-NL.txt, andere Valeo-Einheiten, nicht Wemding):
+  - Industrialisierung/Prozess: Frederik Von-Bueren (Platform Indus Leader, Powertrain), Sebastian Neubauer (Platform Industrial Manager Electromechanical, Powertrain), Jonas Wolfschmidt (Process Manufacturing Engineering, Powertrain), Kevin Aumüller und Helmut Buechner (P0/P1 Process/Manuf Engrg), Dominik Lawatsch (Domain Leader Plastic Transformation, Powertrain), Björn Werner (PG PEM eAxle Clusters Process, eAutomotive).
+  - Einkauf: Bharath Kumar Ponnudurai (Global Commodity Manager, eAutomotive), Martin Amrell (Site Purchasing Manager, eAutomotive), Stefanie Mecklenburg (Segment Lead Chemicals, eAutomotive), Andreas Precht (Project Purchasing, Powertrain), Johannes Fischer (Indirect Purchasing Buyer, Powertrain).
+  - Diese Personen kennen wir bereits; sie können intern vermitteln, wer in der Brain Division Wemding zuständig ist.
