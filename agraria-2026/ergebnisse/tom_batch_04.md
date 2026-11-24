@@ -110,7 +110,7 @@ Zusammenfassung Tom-Einstufung: interessant 1 (MULAG), prüfenswert 5 (LEHNER, L
 12. CRM-Status: neu (crm_abgleich.py "Miller Grader": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion (Vorschlag): Welche Firma steht hinter "Miller Grader GmbH" (Handelsregister, agraria-Ausstellerprofil mit Anschrift lesen; ggf. Messeprofil im Browser)? Wo sitzt sie, ist sie Hersteller oder Händler? Aktion: nicht kontaktieren.
 14. Quellen:
-- https://www.maschinensucher.de/Haendler/tci-114 (S, Suchtext): Treffer nur allgemeine Grader-Händlerliste, keine Miller Grader GmbH; Abruf 2026-11-24.
+- https://www.bayern-international.de/en/company-database/company-details/miller-gmbh-co-kg-praezisionswerkzeuge-14853 (S, Suchtreffer): "Miller GmbH & Co. KG, Präzisionswerkzeuge" (andere Firma, nicht Miller Grader); Abruf 2026-11-24.
 - Negativbefund aus zwei WebSearch-Läufen (Abruf 2026-11-24), kein Beleg für Nichtexistenz.
 15. Größe/Umsatz: unbekannt.
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep Miller Grader: kein Eintrag); die Firma ist nicht identifizierbar, daher keine Einzelsuche mit Wettbewerbernamen. Messe-Signal: nicht geprüft.
@@ -214,7 +214,7 @@ Zusammenfassung Tom-Einstufung: interessant 1 (MULAG), prüfenswert 5 (LEHNER, L
 6. Was wird gebaut: nichts; Verband mit 8.585 Mitgliedern (natürliche Personen, Stand 19.03.2026, S), Richtlinien und Zertifizierung für Biolandbau. Vergossenes: nicht anwendbar (A, Block C: Verband).
 7. Fertigung DE/AT/NL: Niedrig, Stufe A (keine Produktion).
 8. Verguss/Bonding (höchstes Bauteil): Niedrig, Stufe A. Keine Bauteile.
-9. Patentrecherche (Pflicht): WebSearch auf Google Patents/Espacenet/DEPATISnet-Inhalte, Abfrage "Naturland e.V. Verband für ökologischen Landbau Gräfelfing Impressum": keine Patente (nur Lobbyregister, Verzeichnisse). Zweite Abfrage "patent Naturland e.V. Anmelder Gräfelfing" nicht separat ausgeführt, stattdessen sinngemäß zweite Suche mit Anmelder Naturland über die Ergebnisliste der ersten (Treffer nur Verbands-/Registerseiten). Ergebnis: keine Patente gefunden (kein Datenbankergebnis); Anmelder-Variante Naturland Zeichen GmbH nicht gesondert abgefragt. Hinweis: Das Ergebnis ist dünn begründet; bei einem Verband ohne Fertigung ist das ohne Folgen für die Einstufung.
+9. Patentrecherche (Pflicht): WebSearch auf Google Patents/Espacenet/DEPATISnet-Inhalte, Abfrage "Naturland e.V. Verband für ökologischen Landbau Gräfelfing Impressum": keine Patente (nur Lobbyregister, Verzeichnisse). Zweite Abfrage "patent Anmelder \"Naturland\" Verband Gräfelfing Patent": keine Patente, nur Markeneinträge (Justia Trademarks, keine Patente) und Registerseiten. Anmelder-Variante Naturland Zeichen GmbH nur in dieser Abfrage miterfasst, nicht in den Datenbanken. Ergebnis: keine Patente gefunden (kein Datenbankergebnis). Hinweis: Das Ergebnis ist dünn begründet; bei einem Verband ohne Fertigung ist das ohne Folgen für die Einstufung.
 10. Einstufung Tom: kein Fertiger (Verband; nach Entscheidung Jey raus)
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Naturland": kein Treffer)
