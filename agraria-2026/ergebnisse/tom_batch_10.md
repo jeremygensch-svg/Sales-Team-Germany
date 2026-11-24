@@ -80,7 +80,7 @@ CRM-Abgleich: crm_abgleich.py für alle zehn Firmen und genannte Konzerne/Marken
 6. Was wird gebaut: nichts selbst; Vertrieb von Bobcat-Maschinen (Teleskoplader, Hoflader, Kompaktlader) durch die Genossenschaft (S). Typisch vergossen: Maschinenelektronik beim Hersteller, nicht bei der Firma (A).
 7. Fertigung DE/AT/NL: Niedrig, Stufe S. Begründung: Handelsgesellschaft; Herstellerwerke in Tschechien/USA.
 8. Verguss/Bonding (höchstes Bauteil): Niedrig, Stufe A (für die Firma). Einzelbewertung: Steuergeräte/Sensorik der Bobcat-Maschinen Hoch (A, nur beim Hersteller außerhalb DE/AT/NL), Werkstatt/Service Niedrig (A).
-9. Patentrecherche (Pflicht): Google Patents und Espacenet über WebSearch: "Doscan Bobcat patent potting OR encapsulation OR sealing electronic controller" (korrekt: Doosan Bobcat, kein Treffer des Anmelders) und "Bobcat Company patent assignee Clark Equipment OR Doosan Bobcat loader electrical connector sealed": Anmelder ist Doosan Bobcat North America (US-Patente 8,364,356; 10,934,684; 8,047,760; 7,831,364, Quelle ITC-Klage 2025, S), alle Hydraulik/Elektrik-Leitungen und Lader, kein Verguss belegt. Die Patente gehören dem Hersteller, nicht der Genossenschaft VarioWelt. Rechtsstand nicht geprüft; DEPATISnet nicht direkt abgefragt.
+9. Patentrecherche (Pflicht): Google Patents und Espacenet über WebSearch: "Doosan Bobcat patent potting OR encapsulation OR sealing electronic controller" (kein Treffer des Anmelders) und "Bobcat Company patent assignee Clark Equipment OR Doosan Bobcat loader electrical connector sealed": Anmelder ist Doosan Bobcat North America (US-Patente 8,364,356; 10,934,684; 8,047,760; 7,831,364, Quelle ITC-Klage 2025, S), alle Hydraulik/Elektrik-Leitungen und Lader, kein Verguss belegt. Die Patente gehören dem Hersteller, nicht der Genossenschaft VarioWelt. Rechtsstand nicht geprüft; DEPATISnet nicht direkt abgefragt.
 10. Einstufung Tom: kein Fertiger (Einkaufsgenossenschaft/Händler)
 11. Ampel: (leer, vergibt Tina)
 12. CRM-Status: neu (crm_abgleich.py "Bobcat Vario Welt" "Bobcat" "Doosan Bobcat": kein Treffer)
@@ -214,7 +214,7 @@ CRM-Abgleich: crm_abgleich.py für alle zehn Firmen und genannte Konzerne/Marken
 12. CRM-Status: neu (crm_abgleich.py "CA Catering Foodtruck Frau Knolle": kein Treffer)
 13. Nachrecherche-Auftrag und Aktion (Vorschlag): keiner nötig; aus der Liste streichen. Identität nicht auffindbar (Tabellenzeile 2 würde Gelb ergeben, hier irrelevant, da kein Fertiger). Aktion: nicht aufnehmen.
 14. Quellen:
-- WebSearch "Foodtruck Frau Knolle CA Catering Österreich" (2026-11-24): "Keine Treffer für Frau Knolle" (Ergebnis der Suche, keine Quelle für die Firma); Messeliste agraria-2026/batches_v2/pruef_10.md Zeile 100: "Freigelände Stand 180", Abruf 2026-11-24 (Messeliste, S).
+- https://www.oberoesterreich.at/oesterreich-gastronomie/detail/430007711/streetfood-salzkammergut-foodtruck-catering.html (S, nur Suchergebnisliste, kein Treffer zur Firma, Gegenprobe): "Streetfood Salzkammergut"; Abruf 2026-11-24. Messeliste agraria-2026/batches_v2/pruef_10.md Zeile 100: "Freigelände Stand 180", Abruf 2026-11-24 (Messeliste, S).
 15. Größe/Umsatz: unbekannt.
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep "knolle": kein Eintrag); keine Fertigung, keine Einzelsuche sinnvoll.
 17. Identität: Firma im Web nicht auffindbar (eine Suche, 18 Treffer ohne Namen); nur Messeliste. Rechtsform, Adresse und Register unbekannt.
