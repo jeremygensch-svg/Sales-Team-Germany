@@ -7,7 +7,7 @@ CRM-Abgleich: crm_abgleich.py für alle 10 Firmen samt Konzern-, Marken- und Alt
 Messe-Signal (Regel N2): Grep auf agraria-2026/agraria_2026_aussteller_DE-AT-NL.csv (2026-11-24) nach Scheugenpflug, DOPAG, ViscoTec, RAMPF, bdtronic, Sonderhoff, Nordson, Henkel, DELO, Wacker, Sika, ELANTAS, Musashi, Marco, Hilger, OTTO-CHEMIE, Lohmann, Panacol, EPOXONIC, WEVO, Hexion, GONANO: kein Treffer in der DE/AT/NL-Ausstellerliste. Kein Wettbewerber-Signal.
 Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine solche Firma im Batch); CRM-Namensgleichheit/Ähnlichkeit raus (Nr. 110, siehe Abschnitt "nicht aufgenommen"); Händler/Landtechnikhändler ohne eigene Fertigung = "kein Fertiger" (Nr. 102, 108, 109); Anlagenbauer nur raus bei Verguss-/Dosieranlagen (E1): keine Firma im Batch betroffen.
 
-## 1. CLA Tech Maschinen- und Fertigungstechnik GmbH
+## 101. CLA Tech Maschinen- und Fertigungstechnik GmbH
 1. Firma: CLA Tech Maschinen- und Fertigungstechnik GmbH (Messe agraria 2026, Halle 18, Stand 530)
 2. Segment / Demak-Geschäftsbereich: kein klarer Bereich; Maschinen-/Stahlbau mit Stalleinrichtung (Messeprodukt "Hühnerstall"). Randfall Electrical Insulation nur falls Steuerungen verbaut werden.
 3. Gebiet: Österreich (Guntersdorf, Niederösterreich)
@@ -28,7 +28,7 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep CLA Tech: kein Eintrag); Websuche "CLA Tech Maschinen- und Fertigungstechnik GmbH Hühnerstall" (keine Treffer zur Firma). Messe-Signal: keine Wettbewerber unter den DE/AT/NL-Ausstellern.
 17. Identität: Name/Rechtsform laut Messeliste und WKO-Snippet (CLA Tech Maschinen- und Fertigungstechnik GmbH, Guntersdorf) stimmen überein; Herold führt Schreibweise "CLA Tech Maschinen- u Fertigungstechnik GmbH". Firmenbuchnummer und Impressum nicht gefunden/gelesen (Firmenbuch-Suche ohne Treffer). Identität nur Stufe S.
 
-## 2. CLAAS Regional Center Central Europe GmbH
+## 102. CLAAS Regional Center Central Europe GmbH
 1. Firma: CLAAS Regional Center Central Europe GmbH (Messe agraria 2026, Freigelände, Stand 30)
 2. Segment / Demak-Geschäftsbereich: Vertriebsgesellschaft für Landtechnik (Traktoren, Schwader, Ballenpressen, Precision Farming); Produkte des CLAAS-Konzerns hätten E-Mobility/Electrical-Insulation-Bezug (Steuergeräte, Sensoren), die Gesellschaft selbst fertigt nicht.
 3. Gebiet: Österreich (Spillern, Niederösterreich)
@@ -50,7 +50,7 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep CLAAS: kein Eintrag); Websuche "CLAAS Werk Harsewinkel Bad Saulgau Paderborn Elektronik Produktion" (keine Anlagen-/Massennamen). Messe-Signal: keine Wettbewerber unter den Ausstellern.
 17. Identität: Name, Rechtsform GmbH, Adresse Spillern und FN 474371f stimmen überein (Firmenbuchgrundbuch-Snippet, S); Sitz laut Suche Spillern, nicht Wien. Impressum nicht gelesen.
 
-## 3. ClimaBarn
+## 103. ClimaBarn
 1. Firma: ClimaBarn (Messe agraria 2026, Halle 18, Stand 460)
 2. Segment / Demak-Geschäftsbereich: kein klarer Bereich; Stallbelüftung (Textilkanalsystem mit Ventilatoren). Randfall Electrical Insulation (Ventilator-/Steuerelektronik, zugekauft).
 3. Gebiet: außerhalb (Dänemark, Hersteller FabricAir A/S; in Österreich Vertrieb über FabricAir Austria GmbH)
@@ -62,16 +62,16 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 9. Patentrecherche (Pflicht): Google Patents und Espacenet über WebSearch: Abfrage "FabricAir A/S patent fabric duct OR textile duct Espacenet applicant": kein belegtes FabricAir-Patent; Fremdtreffer mit unbestätigtem Anmelder: US 7442121 "Textile ducts", WO2016062297A1 "Duct for air transport" (nicht gezählt, Anmelder nicht bestätigt, Rechtsstand nicht geprüft). Zweite Abfrage "FabricAir ClimaBarn Produktion Dänemark ... Hersteller Textilkanal": keine Patentbelege. Keine Verguss-/Dichtungspatente. DEPATISnet nicht direkt abgefragt.
 10. Einstufung Tom: unwahrscheinlich (Fertigung Niedrig S)
 11. Ampel:
-12. CRM-Status: neu (crm_abgleich.py "ClimaBarn": kein Treffer; zusätzlich Konzern/Marke "FabricAir" nicht abgeglichen, weil der Name erst bei der Recherche auftauchte: siehe Nachlauf unten). Nachlauf: crm_abgleich.py "FabricAir" "FabricAir Austria" wurde ausgeführt (Ergebnis siehe Abschnitt Einschränkungen).
+12. CRM-Status: neu (crm_abgleich.py "ClimaBarn": kein Treffer; Nachlauf mit Hersteller aus der Recherche: "FabricAir" "FabricAir Austria" "FabricAir A/S": jeweils kein Treffer)
 13. Nachrecherche-Auftrag und Aktion (Vorschlag): Wo produziert FabricAir ClimaBarn (Køge oder anderer Standort)? Wer stellt auf der agraria aus (FabricAir Austria GmbH?). Impressum climabarn.de und fabricair.com lesen. Aktion: nicht kontaktieren.
 14. Quellen:
 - https://clb.fabricair.com/de/wp-content/uploads/sites/20/2026/02/climabarn-brochure-de-web.pdf (S, Snippet): "ClimaBarn ist ein präzisionsgefertigtes Textilkanal-Belüftungssystem"; Abruf 2026-11-24.
 - https://www.fabricair.com/news/the-original-fabric-duct-manufacturer-on-the-austrian-market/ (S, Snippet): "FabricAir Austria GmbH"; Abruf 2026-11-24.
-16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep ClimaBarn/FabricAir: kein Eintrag); Websuche "FabricAir ClimaBarn Produktion ... Hersteller" und "ClimaBarn FabricAir Österreich Vertrieb Partner" (keine Anlagen-/Massennamen). Messe-Signal: keine Wettbewerber unter den Ausstellern.
 15. Größe/Umsatz: unbekannt (FabricAir: Kunden in über 120 Ländern laut eigener Angabe, S, kein Einfluss).
+16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep ClimaBarn/FabricAir: kein Eintrag); Websuche "FabricAir ClimaBarn Produktion ... Hersteller" und "ClimaBarn FabricAir Österreich Vertrieb Partner" (keine Anlagen-/Massennamen). Messe-Signal: keine Wettbewerber unter den Ausstellern.
 17. Identität: Messeliste nennt nur "ClimaBarn", ohne Rechtsform. Tatsächliche Marke von FabricAir A/S (Dänemark); ausstellende Rechtsträger unklar. Abweichung zur Vorgabe benannt; Ampel höchstens Gelb bis zur Klärung (Regel O).
 
-## 4. CNH Industrial Österreich GmbH
+## 104. CNH Industrial Österreich GmbH
 1. Firma: CNH Industrial Österreich GmbH (Messe agraria 2026, Halle 20, Stand A10)
 2. Segment / Demak-Geschäftsbereich: E-Mobility Potting / Electrical Insulation (Traktoren mit Steuergeräten, Sensorik, Beleuchtung); Landtechnik
 3. Gebiet: Österreich (St. Valentin, Niederösterreich)
@@ -93,7 +93,7 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep CNH/Case/Steyr/New Holland: kein Eintrag); Websuche "CNH Industrial potting/sealing/dispensing" (keine Wettbewerber-Treffer). Messe-Signal: keine Wettbewerber unter den Ausstellern.
 17. Identität: Name, Rechtsform GmbH, Adresse St. Valentin und FN 146352z stimmen mit mehreren Snippets überein (WKO, EVI, trend.at, S). Impressum nicht gelesen. Messeliste nennt Land AT; passt.
 
-## 5. cooks catering GmbH
+## 105. cooks catering GmbH
 1. Firma: cooks catering GmbH (Messe agraria 2026, Freigelände, Stand 40)
 2. Segment / Demak-Geschäftsbereich: keiner (Gastronomie/Catering auf der Messe)
 3. Gebiet: Österreich (nur laut Messeliste AT; Sitz nicht ermittelt)
@@ -114,7 +114,7 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep cooks: kein Eintrag); Websuche "cooks catering GmbH Österreich" (nur Catering-Verzeichnisse). Messe-Signal: keine Wettbewerber unter den Ausstellern.
 17. Identität: nicht belegt. Firma mit exakt diesem Namen per Websuche nicht auffindbar; Rechtsform GmbH nur laut Messeliste. Gleichnamige/ähnliche Firmen nicht vermischt.
 
-## 6. Country OÜ
+## 106. Country OÜ
 1. Firma: Country OÜ (Messe agraria 2026, Halle 20, Stand B10; Mitaussteller laut Messeliste)
 2. Segment / Demak-Geschäftsbereich: kein klarer Bereich; Forst-/Landtechnikgeräte (Hebe-/Anbaugeräte). Randfall Electrical Insulation nur falls Elektrik/Hydraulik-Steuerung.
 3. Gebiet: außerhalb (Estland)
@@ -135,7 +135,7 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep Country: kein einschlägiger Eintrag); Websuche "Country OÜ Estonia forestry equipment manufacturer" (keine Anlagen-/Massennamen). Messe-Signal: keine Wettbewerber unter den Ausstellern.
 17. Identität: Messeliste "Country OÜ" (Land AT laut Liste) widerspricht dem Registersitz Estland; Abweichung benannt: ausstellende Einheit laut Messeliste AT, tatsächliche Firma estnische OÜ Country (Reg.-Nr. 12565983, S). Ob Messe-Eintrag und Register dieselbe Einheit sind, nicht belegt; Ampel höchstens Gelb (Regel O).
 
-## 7. DeLaval
+## 107. DeLaval
 1. Firma: DeLaval (Messe agraria 2026, Halle 23, Stand 160)
 2. Segment / Demak-Geschäftsbereich: Electrical Insulation / E-Mobility-nah (Melkroboter, Sensorik, Steuerungen, Fütterungstechnik); Landtechnik/Stalltechnik
 3. Gebiet: außerhalb (Konzern Tetra Laval/DeLaval Holding AB, Schweden); ausstellende österreichische Einheit nicht ermittelt
@@ -157,7 +157,7 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep DeLaval/Tetra Laval: kein Eintrag); Websuche "DeLaval Melktechnik Produktion Werke" und Patentabfragen (keine Wettbewerber-Anlagen oder -Massen genannt). Messe-Signal: keine Wettbewerber unter den Ausstellern.
 17. Identität: Messeliste nennt "DeLaval" ohne Rechtsform und Sitz. Konzern: DeLaval Holding AB (Tumba, SE, Patentanmelder). Ausstellende Einheit in AT nicht belegt; Abweichung/Lücke benannt, Ampel höchstens Gelb bis zur Klärung (Regel O, Zeile 2/3).
 
-## 8. Deschberger Karl GesmbH & Co KG
+## 108. Deschberger Karl GesmbH & Co KG
 1. Firma: Deschberger Karl GesmbH & Co KG (Messe agraria 2026, Halle 19, Stand 240)
 2. Segment / Demak-Geschäftsbereich: keiner; Landtechnikhandel (Silos, Fördertechnik, Sätechnik, Fütterung)
 3. Gebiet: Österreich (St. Marienkirchen bei Schärding, Oberösterreich)
@@ -176,9 +176,9 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 - https://www.landwirt.com/en/detail/sonstige-dela-einzelsilo-typ-250-6010467 (S, Titel): "DeLa Einzelsilo Typ 250" (Handelsware im Händlerprofil); Abruf 2026-11-24.
 15. Größe/Umsatz: unbekannt.
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep Deschberger: kein Eintrag); Websuche "Deschberger Karl GesmbH & Co KG Getreidetechnik Silos Sitz" (nur Händlerprofile). Messe-Signal: keine Wettbewerber unter den Ausstellern.
-17. Identität: Messeliste "Deschberger Karl GesmbH & Co KG"; Händlerprofil führt "Deschberger Karl Landtechnik GesmbH & Co KG" (Abweichung: "Landtechnik" fehlt im Messenamen). Gleiche Einheit wahrscheinlich, aber nur S; Verhältnis zu Nr. 9 (Deschberger Landtechnik GmbH, Senftenbach) nicht geklärt. Firmenbuch nicht gelesen.
+17. Identität: Messeliste "Deschberger Karl GesmbH & Co KG"; Händlerprofil führt "Deschberger Karl Landtechnik GesmbH & Co KG" (Abweichung: "Landtechnik" fehlt im Messenamen). Gleiche Einheit wahrscheinlich, aber nur S; Verhältnis zu Nr. 109 (Deschberger Landtechnik GmbH, Senftenbach) nicht geklärt. Firmenbuch nicht gelesen.
 
-## 9. Deschberger Landtechnik GmbH
+## 109. Deschberger Landtechnik GmbH
 1. Firma: Deschberger Landtechnik GmbH (Messe agraria 2026, Freigelände, Stand 10)
 2. Segment / Demak-Geschäftsbereich: keiner; Landtechnikhandel (Kommunalgeräte, Mulcher, Kreiseleggen)
 3. Gebiet: Österreich (Senftenbach, Oberösterreich)
@@ -191,15 +191,15 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 10. Einstufung Tom: kein Fertiger
 11. Ampel:
 12. CRM-Status: neu (crm_abgleich.py "Deschberger Landtechnik" "Deschberger": kein Treffer)
-13. Nachrecherche-Auftrag und Aktion (Vorschlag): keiner (Händler, E2). Klären, ob Nr. 8 und Nr. 9 zur selben Unternehmensgruppe gehören (Firmenbuch). Aktion: nicht aufnehmen.
+13. Nachrecherche-Auftrag und Aktion (Vorschlag): keiner (Händler, E2). Klären, ob Nr. 108 und Nr. 109 zur selben Unternehmensgruppe gehören (Firmenbuch). Aktion: nicht aufnehmen.
 14. Quellen:
-- https://www.landwirt.com/en/detail/maschio-giraffa-l-190-se-mulcher-5586122 (S, Händlersuche, Snippet): "Maschio Giraffa L 190 SE Mulcher"; Abruf 2026-11-24 (Händler dort Nr. 8; Senftenbach-Ort stammt aus einer Berti-FLEXY-Anzeige, nicht einzeln abgerufen).
+- https://www.landwirt.com/en/detail/maschio-giraffa-l-190-se-mulcher-5586122 (S, Händlersuche, Snippet): "Maschio Giraffa L 190 SE Mulcher"; Abruf 2026-11-24 (Händler dort Nr. 108; Senftenbach-Ort stammt aus einer Berti-FLEXY-Anzeige, nicht einzeln abgerufen).
 - https://landwirt.com/en/used-farm-machinery/dealers,3248,Deschberger-Karl-Landtechnik-GesmbH--Co-KG.html (S, Snippet): "Deschberger Karl Landtechnik GesmbH & Co KG"; Abruf 2026-11-24.
 15. Größe/Umsatz: unbekannt.
 16. Wettbewerbereinsatz: kein Hinweis gefunden (Stufe ?). Suchen: wettbewerber_referenzen.md (Grep Deschberger: kein Eintrag); Websuche "Deschberger Landtechnik GmbH Sitz Händler Mulcher" (nur Anzeigen). Messe-Signal: keine Wettbewerber unter den Ausstellern.
-17. Identität: Name laut Messeliste; Ort 4973 Senftenbach nur aus einer Anzeige (S), Register/Impressum nicht gelesen. Verwechslungsgefahr mit "Deschberger Karl Landtechnik GesmbH & Co KG" (Nr. 8); nicht vermischt.
+17. Identität: Name laut Messeliste; Ort 4973 Senftenbach nur aus einer Anzeige (S), Register/Impressum nicht gelesen. Verwechslungsgefahr mit "Deschberger Karl Landtechnik GesmbH & Co KG" (Nr. 108); nicht vermischt.
 
-## 10. DEUTZ-FAHR
+## 110. DEUTZ-FAHR
 1. Firma: DEUTZ-FAHR (Messe agraria 2026, Halle 21, Stand C30)
 2. Segment / Demak-Geschäftsbereich: E-Mobility Potting / Electrical Insulation (Traktoren, Erntemaschinen mit Steuergeräten, Sensorik); Landtechnik
 3. Gebiet: Bayern (Werk Lauingen, DEUTZ-FAHR LAND/SDF); Messe-Einheit (Österreich) nicht ermittelt
@@ -227,7 +227,7 @@ Jey-Entscheidungen angewandt: Verbände/Prüfdienstleister/Forschung raus (keine
 
 ## Einschränkungen
 - Nur WebSearch; kein WebFetch (Hostauflösung für cla-tech.at, deschberger-landtechnik.at, deschberger.at, clb.fabricair.com gescheitert; die Domains müssten in den Netzwerkeinstellungen der Session freigegeben werden), kein Chrome: keine Stufe-V-Aussage, kein Browser-Gegenlesen (Regel H) möglich.
-- Patentrecherche nur über WebSearch-Snippets, nicht direkt in Google Patents/Espacenet/DEPATISnet; Rechtsstände nicht geprüft; Nachholung im Browser empfohlen, vor allem für Nr. 7 (DeLaval US11864528B2), Nr. 4 (CNH) und Nr. 10 (SDF).
+- Patentrecherche nur über WebSearch-Snippets, nicht direkt in Google Patents/Espacenet/DEPATISnet; Rechtsstände nicht geprüft; Nachholung im Browser empfohlen, vor allem für Nr. 107 (DeLaval US11864528B2), Nr. 104 (CNH) und Nr. 110 (SDF).
 - Messeliste (agraria.at/aussteller) nicht direkt abgerufen, Daten stammen aus agraria_2026_aussteller_DE-AT-NL.csv und pruef_11.md (Stufe S nach Regel N5).
-- Messelisten-Einheiten bei Nr. 3, 6, 7, 10 sind nicht eindeutig einer Rechtseinheit zuzuordnen (Marke/Konzern); Gebiet dort nach Konzern/Hersteller bestimmt.
-- Nachlauf CRM-Abgleich für Marke aus der Recherche: siehe unten, falls ergänzt.
+- Messelisten-Einheiten bei Nr. 103, 106, 107, 110 sind nicht eindeutig einer Rechtseinheit zuzuordnen (Marke/Konzern); Gebiet dort nach Konzern/Hersteller bestimmt.
+- Nachlauf-CRM-Abgleich für aus der Recherche gefundene Namen (FabricAir, FabricAir Austria, FabricAir A/S, SDF Group, Tetra Laval): kein Treffer.
