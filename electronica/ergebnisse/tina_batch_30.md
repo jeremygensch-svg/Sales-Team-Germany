@@ -1,0 +1,111 @@
+# Tina Batch 30 – electronica 2026 (Prüfung von tom_batch_30.md)
+Erstellt: 2026-10-15 (Tina, Stufe 2, Version 2, getrennter Agent, Regel Q, Messemodus N). Eingabe: ausschließlich electronica/ergebnisse/tom_batch_30.md (10 Firmen, Nr. 333 bis 342).
+**VERMERK ÜBER ALLEN AMPELN: ohne Browser/Web-Abruf geprüft, vorläufig.** Es standen nur WebSearch (22 Abfragen, Suchzusammenfassungen) und Bash zur Verfügung; WebFetch und Chrome nicht nutzbar. Es gibt in diesem Batch KEINE Stufe-V-Aussage, auch nicht aus meiner Prüfung. "Zitat im Browser bestätigt" ist überall: nein (nicht möglich). Kein Ergebnis ist mailtauglich.
+CRM-Abgleich selbst wiederholt: `python3 crm_abgleich.py` je Firma mit Konzern-, Alt- und Schwesternamen (Keysight/Agilent/Hewlett-Packard, KIOXIA/Toshiba Memory, KISCO/Kisco Ltd/Specialty Coating Systems, Kitagawa/Kitagawa Industries, Kerafol, Keyence Corporation, Kelington Group, Kikusui, Kingbright, Kitec): überall "kein Treffer -> neu". Zeile 3 und E5 daher nirgends ausgelöst.
+Verifikationsdatum aller Einträge: 2026-10-15. "Tabellenzeile" = Zeilennummer der Ampel-Tabelle D.
+
+## Gesamtübersicht
+| Nr | Firma (Stand) | Ampel | Tabellenzeile | Stichprobe Jey |
+|---|---|---|---|---|
+| 333 | Kelington Engineering (Germany) GmbH (C1.105) | GELB | 5 | nein |
+| 334 | Kerafol Keramische Folien GmbH & Co. KG (C3.452) | GELB | 7 | ja |
+| 335 | KEYENCE DEUTSCHLAND GmbH (A4.225) | GELB | 5 | nein |
+| 336 | Keysight Technologies Deutschland GmbH (A4.506) | GELB | 5 | ja |
+| 337 | Kikusui Electronics Europe GmbH (A4.159) | GELB | 5 | nein |
+| 338 | Kingbright Electronic Europe GmbH (C6.479) | GELB | 5 | nein |
+| 339 | KIOXIA Europe GmbH (C6.439) | GELB | 5 | nein |
+| 340 | KISCO (Deutschland) GmbH (C2.160) | GELB | 5 | ja |
+| 341 | Kitagawa GmbH (B6.200) | GELB | 2 | ja |
+| 342 | KITEC microelectronic technologie GmbH (B1.358) | GELB | 2 | ja |
+
+Zahlen: Grün 0, Gelb 10, Rot 0.
+Begründung für kein Rot: Alle E1-/E2-Vermutungen (Vertriebsgesellschaften, Materiallieferanten) beruhen auf Stufe S/A. Zeile 1 verlangt Stufe V; fehlender Beleg allein ist nie Rot. Fünf Firmen (Kelington, Keyence, Kikusui, Kingbright, Kioxia) sind sehr wahrscheinlich E2-Fälle (Vertrieb/Installation ohne Fertigung), brauchen aber nur eine Impressum-/Registerlesung zur Bestätigung (geringer Aufwand).
+
+Messe-Signal (Regel N2, von Tom übernommen, nicht von mir wiederholt): bdtronic, ELANTAS Europe, RAMPF (2 Gesellschaften) stellen auf der electronica aus; ändert keine Ampel.
+Patente (Pflicht F5): DEPATISnet, Espacenet und Google Patents waren nicht direkt abfragbar. Eigene Zusatzsuchen: Kerafol (Anmelder/Vergussmasse), Keysight (Anmelder/Verguss). Alle übrigen 8 Firmen: keine eigene Wiederholung (Budget). Feld 9 ist damit bei allen 10 Firmen nicht belastbar (kein Gegenbeweis). Der Batch ist nach F5 UNVOLLSTÄNDIG im Sinne der Datenbankabfrage; Nachholen im Browser nötig, bevor irgendeine Ampel final wird.
+Wettbewerbereinsatz (F6): keine eigene Einzelsuche (Budget). Listenabgleich mit wettbewerber_referenzen.md (Teil 1 bis Zeile 378 gelesen; Nordson-/Sonderhoff-Kundenlisten ohne Treffer auf die zehn Firmen). "Kein Hinweis" ist kein Gegenbeweis; Feld ohne Einfluss auf Ampel.
+
+---
+
+## 1. Kelington Engineering (Germany) GmbH | Halle/Stand C1.105 (Nr. 333)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 5).** Dresden, 100-%-Tochter der Kelington Group (Malaysia), Planung/Installation/Inbetriebnahme von Gas- und Chemikalienversorgung für Halbleiterfabriken (S). Fertigung in DE nicht belegt (Konzerntochter, Sitzregel greift nicht), Verguss Niedrig (A: Rohrleitungs-/Ventil-/Schrankbau). Nach Zeile 6 nicht einstufbar, da Fertigung nicht belegt.
+- Eigene Prüfung: Suche bestätigt Könneritzstraße 29, 01067 Dresden, Tochter von Kelington Group Limited, "design, installation, testing and commissioning" von UHP-Gas-/Chemikalienverteilung (S, silicon-saxony.de). Handelsregister nicht gefunden. Weitere Quellen (workeer, Stellenportale) nur Verzeichnisse.
+- Korrekturen an Toms Feldern: keine. Tom: "kein Fertiger" bleibt Tendenz (E2 Anlagenbau/Dienstleistung nicht V-belegt).
+- Nachrecherche-Auftrag (Gelb, Zeile 5): Fertigt die GmbH (Gaspanels, Schränke) in Dresden oder installiert sie nur beim Kunden? Wo nachsehen: Impressum/Standortseite der Gesellschaft (Domain unbekannt, über Silicon-Saxony-Profil), Handelsregister Dresden (Gegenstand), Stellenanzeigen Dresden (Montage/Werkstatt). Aktion: nicht priorisieren.
+- Nicht verwendbare Aussagen: Sitz/Tätigkeit (S, Verzeichnis); Mitarbeiterzahl 1 bis 10 (S, unsicher); Verguss alle Bauteile (A). Zitat im Browser bestätigt: nein. Stichprobe für Jey: nein.
+
+## 2. Kerafol Keramische Folien GmbH & Co. KG | Halle/Stand C3.452 (Nr. 334)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 7, Hinweis auf E1 nicht V-belegt).** Eigenhersteller in Eschenbach/Opf. ("develops and manufactures ... in Germany", S): Fertigung Hoch (A, Sitzregel), Verguss Mittel (A: Keramiksubstrate/Folien für Sensorik und Leistungselektronik). Aber: Kerafol stellt selbst Wärmeleitpasten und zweikomponentige Keratherm-Gap-Filler-Flüssigmassen (GFL, 2K-Silikon, Kartuschen 50/400 ml) her. Der Conrad-Datenblattname lautet "masa za lijevanje" (Gussmasse), ein Händler beschreibt Verguss ganzer Anwendungen (S). Das spricht für einen Hersteller von Vergussmassen/Dosiermassen = E1-Kandidat. Ohne Stufe V ist nicht entscheidbar, ob Kerafol Anwender (Zeile 4 Grün) oder Materialhersteller (Zeile 1 Rot) ist; deshalb Gelb. Ich schätze E1 wahrscheinlicher als Tom.
+- Eigene Prüfung: Suche zeigt Sicherheitsdatenblätter mit Anschrift "Koppe-Platz 1, 92676 Eschenbach", Tom nennt Stegenthumbach 4-6 (Datenblatt Conrad). Zwei Anschriften derselben PLZ; wahrscheinlich Standortangaben unterschiedlichen Alters, nicht geklärt (Feld 17). Pasten laut Datenblatt keramikgefüllte Silikonöle (S). Patente: Justia-Seite "Patents by Inventor Franz Koppe" listet Kerafol-Verfahren zur Keramikfolienherstellung und ein US-Anmeldedokument zu einer Gieß-/Einbettmasse mit magnetischen Partikeln (Anmelder im Snippet nicht eindeutig, Rechtsstand nicht geprüft). Das ist ein Hinweis auf Eigenentwicklung von Vergussmassen, kein Beleg. Keine Stellenanzeige gefunden, die Kerafol ausweist.
+- Korrekturen an Toms Feldern: Feld 6/8 ergänzen: GFL-Flüssigmassen (2K, vergussartig) als eigenes Produkt, nicht nur Pasten/Pads. Feld 9: Treffer zu Koppe-Patenten (Justia) statt "kein Kerafol-Patent"; Zuordnung und Status offen. Feld 17: zweite Anschrift Koppe-Platz 1. Einstufung "Wettbewerber/Lieferant" ist plausibel, aber E1 nicht V-belegt.
+- Nachrecherche-Auftrag (Gelb, Zeile 7): (1) Ist Kerafol Hersteller und Anbieter von Vergussmassen/Gap-Fillern (E1) und ist das das Kerngeschäft oder ein Nebenprodukt neben Keramik? Wo nachsehen: kerafol.com Produktseiten Keratherm GFL/KP und Datenblätter, Firmenprofil. (2) Anmelder und Rechtsstand der Koppe-Patente (Justia/Google Patents, Espacenet, DEPATISnet; Anmelder-Varianten "Kerafol Keramische Folien", "Kerafol"). (3) Impressum: Anschrift Koppe-Platz 1 oder Stegenthumbach 4-6, Konzernzugehörigkeit. Aktion: nicht kontaktieren, bis (1) geklärt. Bei E1-Bestätigung mit Quelle Rot.
+- Nicht verwendbare Aussagen: Fertigung Eschenbach (A/S); Verguss Mittel (A); "Wettbewerber/Lieferant" (S/A); Mitarbeiterzahl ca. 200 (S, evtl. veraltet, Verzeichnisse chemie.de/yumda); Gründung 1985 (S). Zitat im Browser bestätigt: nein. Stichprobe für Jey: ja (Rot-Kandidat E1 oder Anwender).
+
+## 3. KEYENCE DEUTSCHLAND GmbH | Halle/Stand A4.225 (Nr. 335)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 5).** Deutsche Tochter der Keyence Corporation, Funktion Vertrieb/Support; Fertigung in DE/AT/NL nicht belegt (S, Sekundärquelle "fabless"). Verguss Hoch (A) nur für die Produktart Sensoren, für Demak ohne Fertigung in DE nicht nutzbar. E2 wahrscheinlich, nicht V.
+- Eigene Prüfung: Suche bestätigt HRB 11973, Amtsgericht Offenbach (S, Impressum-Kopie), Anschrift widersprüchlich: Frankfurt (De-Saint-Exupéry-Str. 3, Tom) gegenüber Neu-Isenburg (Siemensstr. 1, mehrere Verzeichnisse). Registergericht Offenbach passt eher zu Neu-Isenburg. Geschäftsführerangaben je Quelle verschieden (Zeitstand). Keine Produktionsstätte in Deutschland gefunden.
+- Korrekturen: Feld 4/17: Anschrift Neu-Isenburg als Alternative (aktuelle Adresse offen). Sonst keine.
+- Nachrecherche-Auftrag (Gelb, Zeile 5): Hat die GmbH eine Fertigung/Montage in DE oder nur Vertrieb? Wo nachsehen: Impressum keyence.de (Anschrift, Gegenstand), Standortliste Deutschland keyence.com, Stellenanzeigen (Montage/Produktion). Bei Vertrieb ohne Fertigung Rot nach E2 mit Quelle. Aktion: nicht priorisieren.
+- Nicht verwendbare Aussagen: "fabless"/Vertragsfertiger (S, Wikipedia); Büros in 20 Städten (S); Verguss Sensoren (A). Zitat im Browser bestätigt: nein. Stichprobe für Jey: nein.
+
+## 4. Keysight Technologies Deutschland GmbH | Halle/Stand A4.506 (Nr. 336)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 5).** Konzern (Keysight Technologies Inc.), daher wäre für die Fertigung Stufe V nötig (Sitzregel greift nicht). Fertigung Mittel/S: Suche stützt Tom, wonach Böblingen F&E, Marketing und Fertigung für Digital/Photonik-Test hat; Stellenanzeigen für Photonik-Fertigung (Techniker Optik & Photonik, Manufacturing Process Engineer for Photonic Alignment and Packaging, Optoelektronik-Feinmechaniker, S, mit 2026-Daten). Verguss Mittel (A: Netzteile/Steuerelektronik in Messgeräten, Photonik-Packaging mit Klebung/Fixierung). Ob Kleben/Dispensing tatsächlich vorkommt, aus den Suchzusammenfassungen nicht ersichtlich.
+- Eigene Prüfung: HRB 747687, Amtsgericht Stuttgart, Herrenberger Str. 130, 71034 Böblingen (S, Verzeichnis companyhouse.de). Korrektur zu Tom: Die Automotive-Energy-Solutions-Sparte (Scienlab/E-Mobility-Testsysteme) hat laut Karriereseite (S) Standort Bochum, nicht Böblingen (Tom Feld 6 sagt "mit Sitz in Böblingen"). Ob dort gefertigt wird, ist offen (zweite Suche ohne Beleg zur Fertigung in Bochum). Eine Stellenanzeige des Personaldienstleisters Hays (optoelektronische Baugruppen, Löten und Kleben) nennt den Endkunden nicht und ist nicht Keysight zuzuordnen. Patent: keine Keysight-Anmeldungen mit Verguss gefunden, Treffer DE4012879C2 (Klebstoff-Tropfen auf Leiterplatten) ohne Keysight-Bezug; Suchwerkzeug ohne Anmelderfilter, schwacher Befund. CRM Agilent/HP/Keysight: kein Treffer.
+- Korrekturen an Toms Feldern: Feld 6/13: Energy-Solutions-Sparte gehört zu Bochum, nicht Böblingen; Werk-zu-Produkt-Zuordnung trennen. Feld 15: Mitarbeiterzahl widersprüchlich (850 / 1.000 / 650), nicht verwenden.
+- Nachrecherche-Auftrag (Gelb, Zeile 5): (a) Welche Produkte werden in Böblingen gefertigt (Fertigungsbeleg V für die fertigende Einheit)? Wo nachsehen: jobs.keysight.com Standort Böblingen, Impressum keysight.com/de, Produktseiten Photonik-Testsysteme "Made in Germany". (b) Enthalten Fertigungs-Stellenanzeigen (Photonic Alignment and Packaging, Optoelektronik-Baugruppen) Kleben/Dispensing/Underfill/Verguss? Anzeigen im Original lesen (arbeitsagentur.de Detailseite). (c) Wird in Bochum (Scienlab) gefertigt? (d) Espacenet/DEPATISnet nachholen (Keysight Technologies Inc, Agilent, Hewlett-Packard, Keysight Technologies Deutschland). Aktion: weiterverfolgen, höchste Priorität im Batch, wenn (a) und (b) Treffer bringen (Grün über Zeile 4 möglich).
+- Nicht verwendbare Aussagen: Fertigung Böblingen (S); Photonik-Packaging mit Verguss/Kleben (A); Energy-Solutions-Fertigung (S/?). Zitat im Browser bestätigt: nein. Stichprobe für Jey: ja (aussichtsreichster Kandidat, aber alles S/A).
+
+## 5. Kikusui Electronics Europe GmbH | Halle/Stand A4.159 (Nr. 337)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 5).** Düsseldorfer Niederlassung der japanischen Kikusui Electronics Corporation; Funktion Vertrieb/Support wahrscheinlich, Fertigung in DE nicht belegt (S). Verguss Hoch (A, Netzteile/Trafos) nur Produktart. E2 wahrscheinlich, nicht V.
+- Eigene Prüfung: Anschrift Grossenbaumer Weg 8, 40472 Düsseldorf, Tel. +49 211 54257600 (S, Corporate Outline). Kein HRB gefunden. Kein Hinweis auf eine Fertigung in Deutschland.
+- Korrekturen: keine.
+- Nachrecherche-Auftrag (Gelb, Zeile 5): Montiert/fertigt die GmbH in Düsseldorf oder nur Vertrieb/Service? Wo nachsehen: Impressum der europäischen Kikusui-Seite (Gegenstand), Handelsregister Düsseldorf, Stellenanzeigen. Bei reinem Vertrieb Rot nach E2 mit Quelle. Aktion: nicht priorisieren.
+- Nicht verwendbare Aussagen: Funktion der GmbH (S/?); Verguss Netzteile (A); Gruppe 188 Mitarbeiter (S). Zitat im Browser bestätigt: nein. Stichprobe für Jey: nein.
+
+## 6. Kingbright Electronic Europe GmbH | Halle/Stand C6.479 (Nr. 338)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 5).** EU-Vertriebsgesellschaft in Issum (gegründet Juli 2001 "for the distribution of Kingbright products in the EU", Evertiq, S), Lager-/Versandangaben im Verzeichnis (S); Händlerseiten nennen Herkunftsland China (S). Verguss Hoch (A, LED) nur Produktart, Fertigung asiatisch. E2 stark indiziert, nicht V.
+- Eigene Prüfung: Suche bestätigt Lindenau 7, 47661 Issum, Vertriebsabkommen mit MSC Vertriebs GmbH (2007, S), keine Fertigung am Sitz. Kein HRB gefunden.
+- Korrekturen: keine.
+- Nachrecherche-Auftrag (Gelb, Zeile 5): Impressum/Handelsregister der Gesellschaft (Gegenstand Vertrieb?) lesen; gibt es Montage/Konfektion in Issum? Bei reinem Vertrieb Rot nach E2 mit Quelle. Aktion: nicht priorisieren.
+- Nicht verwendbare Aussagen: Gegenstand "Vertrieb" (S); Herkunft China (S, Händlerseiten); Patent-Rechtsstreit Kingbright v. CREE (Inhaber nicht erkennbar). Zitat im Browser bestätigt: nein. Stichprobe für Jey: nein.
+
+## 7. KIOXIA Europe GmbH | Halle/Stand C6.439 (Nr. 339)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 5).** Europäische Tochter von KIOXIA (vormals Toshiba Memory Europe GmbH, gegründet 2019), HRB 81002 Düsseldorf (S). Das Profil nennt "development, manufacturing and sales of memory products" als Konzernbeschreibung; in Düsseldorf keine Fertigung belegt. Verguss Niedrig (A). E2 wahrscheinlich, nicht V.
+- Eigene Prüfung: Hausnummer 181 (LEI/Firmenprofil) gegen 183 (Global-Sales-Seite) bleibt offen; HRB 81002 Düsseldorf bestätigt (S, LEI-Auszug Stand 10/2023). Patente: Konzernpatente der Mutter (Halbleiter-Packaging), andere Einheit, schwach.
+- Korrekturen: Feld 7 Begründung ergänzen: Geschäftsbeschreibung "manufacturing" ist Konzernwortlaut, keine Fertigung in DE. Sonst keine.
+- Nachrecherche-Auftrag (Gelb, Zeile 5): Gegenstand der Düsseldorfer GmbH laut Handelsregister (Vertrieb/Support) und ob dort Fertigung/Montage stattfindet. Wo nachsehen: europe.kioxia.com Impressum, Unternehmensregister HRB 81002. Bei Vertrieb ohne Fertigung Rot nach E2 mit Quelle. Aktion: nicht priorisieren.
+- Nicht verwendbare Aussagen: Mitarbeiterzahl 106 (S); Konzernpatente (andere Einheit); Verguss Halbleiter-Packages (A, beim Hersteller in Asien). Zitat im Browser bestätigt: nein. Stichprobe für Jey: nein.
+
+## 8. KISCO (Deutschland) GmbH | Halle/Stand C2.160 (Nr. 340)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 5; E1/E2-Hinweis nicht V).** 100-%-Tochter der japanischen KISCO Ltd (Osaka), Handelshaus für Chemie-, Elektronik- und Kunststoffmaterialien; Garching = Vertrieb (Stellenanzeigen "Sales Engineer"/"Technical Sales", Studysmarter: "trading and distribution of chemical, electronic and plastic materials", S). Fertigung in DE nicht belegt. Verguss Niedrig (A). Der Konzern liefert Harze (Epoxid, Halbleiter-Vergussmaterial) und Parylene-Beschichtung (Specialty Coating Systems): E1 für den Konzern denkbar, E2 für die GmbH wahrscheinlich.
+- Eigene Prüfung: Mutter KISCO Ltd Osaka bestätigt als Chemie-Handelshaus (Japan-Enzyklopädie/Crunchbase, S); dort auch "semiconductor sealing material" unter den Produkten (S). Kein Impressum/HRB gefunden. CRM auch mit "Specialty Coating Systems" und "Kisco Ltd": kein Treffer (lückenfüllend zu Toms Einschränkung).
+- Korrekturen an Toms Feldern: Feld 12 Lücke geschlossen (SCS im CRM: kein Treffer). Feld 15: Datenbankwerte 39 Mitarbeiter/8 Mio. USD unplausibel (Tom schon markiert), nicht verwenden.
+- Nachrecherche-Auftrag (Gelb, Zeile 5): (a) Gegenstand der GmbH (Impressum kisco-net.com bzw. Handelsregister München) und Name der Mutter bestätigen. (b) Gibt es Fertigung/Beschichtungsservice (SCS Europa) in Deutschland? (c) Ist der Konzern als Materialhersteller E1 einzustufen oder nur Handelshaus (E2)? Bei Bestätigung Rot mit Quelle. Aktion: nicht kontaktieren, bis (a) geklärt.
+- Nicht verwendbare Aussagen: Mutterfirma-Name (S, im Snippet abgeschnitten, nur über Datenbank); Konzernprodukte (S); Konzernpatente (andere Einheit); Zählung "59 Patentdatensätze" (S, unsicher). Zitat im Browser bestätigt: nein. Stichprobe für Jey: ja (E1/E2-Entscheidung).
+
+## 9. Kitagawa GmbH | Halle/Stand B6.200 (Nr. 341)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 2, Identität).** Meine Suchen finden eine "Kitagawa GmbH" in Obertshausen (Birkenwaldstr. 38) nur über das Mesago-Ausstellerverzeichnis (Toms Quelle, S), weder Register noch Impressum noch Unternehmensseite. Zugleich nennt Kitagawas eigene Gruppenseite eine "Kitagawa Europe GmbH" in Ratingen bei Düsseldorf (Vertrieb/Service) – das ist aber die Kitagawa Corporation (Hiroshima, Spannfutter/Werkzeugmaschinenzubehör, Kitagawa Iron Works) und nicht die EMV-Gruppe Kitagawa Industry Co., Ltd. (Inazawa). Gleichnamige Firmen dürfen nicht vermischt werden; die Zuordnung der GmbH in Obertshausen ist deshalb ungeklärt. Fertigung nicht belegt, Verguss Niedrig (A), Ausstellerprofil: Ferrite, Federkontakte, Wärmeleit-Pads (Materialanbieter/Vertrieb wahrscheinlich).
+- Korrekturen: Feld 17: ausdrücklich zwei verschiedene Kitagawa-Gruppen; Tom nennt "Kitagawa Industry Co., Ltd. (Japan, 1963)" als Verhältnis, belegt ist es nicht. Sonst keine.
+- Nachrecherche-Auftrag (Gelb, Zeile 2): (a) Existiert die Kitagawa GmbH in Obertshausen im Handelsregister (Amtsgericht Offenbach), wer ist Gesellschafter (Kitagawa Industry Co., Ltd., Inazawa)? Impressum kitagawa.de und Handelsregister lesen. (b) Gegenstand: Vertrieb oder Fertigung (Stellenanzeigen, Standortseite)? Bei reinem Vertrieb Rot nach E2 mit Quelle. Aktion: nicht kontaktieren.
+- Nicht verwendbare Aussagen: Sitz Obertshausen (S, nur Messeverzeichnis); Rechtsform (nur Name); Konzernzugehörigkeit (?). Zitat im Browser bestätigt: nein. Stichprobe für Jey: ja (Identität).
+
+## 10. KITEC microelectronic technologie GmbH | Halle/Stand B1.358 (Nr. 342)
+**ohne Browser/Web-Abruf geprüft, vorläufig. Ampel: GELB (Tabellenzeile 2, Identität).** Messeliste: 23569 Lübeck; SEMI-Verzeichnis nennt Rennweg 59, 85435 Erding, Website kitec.de, Mitglied seit 2003 (S). Meine Suche findet keinen Beleg für Lübeck (nur gleichklingende Firmen wie INKUTEC, H-TEC, die auszusortieren sind). Ein Drittverzeichnis (abachy.com, S) beschreibt KITEC als Distributor/Herstellervertretung (Wafer-Loader u. a.), nicht als Hersteller. Das stützt E2, ist aber nur Stufe S. Fertigung nicht belegt, Verguss Niedrig (A).
+- Korrekturen: Feld 3/4: Erding (Bayern) ist die einzige belegte Anschrift; Lübeck nicht belegt. Feld 5: Website kitec.de (laut SEMI-Profil, nicht gelesen). Feld 10: "unwahrscheinlich" bleibt, Tendenz E2.
+- Nachrecherche-Auftrag (Gelb, Zeile 2): (a) Sitz der ausstellenden Gesellschaft (Erding oder Lübeck; ggf. Zweigniederlassung)? Wo nachsehen: Impressum kitec.de, Handelsregister Erding/Landshut bzw. Lübeck, Mesago-/electronica-Ausstellerprofil. (b) Hersteller oder Vertretung? Bei Vertretung Rot nach E2 mit Quelle. Aktion: Jey bestätigt Firma, bevor weiterrecherchiert wird.
+- Nicht verwendbare Aussagen: Sitz Lübeck (nicht belegt); Hersteller/Distributor-Rolle (S); Verguss Messtechnik (A). Zitat im Browser bestätigt: nein. Stichprobe für Jey: ja.
+
+---
+
+## Konsistenz und Auffälligkeiten
+- Toms Stufen sind überall korrekt niedrig (S/A) angesetzt, keine V-Aussage vorgetäuscht. Seine Einstufungen "kein Fertiger" sind plausibel, aber nach Tabelle D nicht als Rot tragfähig (E2 braucht V).
+- Toms Einstufung Kerafol "Wettbewerber/Lieferant" ist eher noch stärker als von ihm angenommen (GFL-Gussmassen, Koppe-Patent). Keysight ist der einzige "prüfenswert"-Kandidat und bleibt es; zugleich sind dort alle Fertigungs- und Vergussaussagen S/A.
+- Vorschlag Fehlerlog (Jey gibt frei, nicht eingetragen): (1) Messelisten-Gesellschaften bei japanischen/asiatischen Konzernen (Kitagawa, Kikusui, Kioxia, Kingbright, Keyence) mit Impressum auf Gegenstand "Vertrieb" prüfen; namensgleiche Gruppen (Kitagawa Corporation gegen Kitagawa Industry) nicht vermischen. (2) Bei Konzernsparten (Keysight Böblingen gegen Bochum) das Werk je Sparte benennen.
+
+## Einschränkungen
+- Browser und WebFetch nicht verfügbar: kein Gegenlesen nach Abschnitt H, kein Impressum, kein Datenblatt, kein Register gelesen. Alle Aussagen Stufe S oder A. Keine "Zitat im Browser bestätigt: ja".
+- WebSearch: 22 Abfragen verbraucht (Schwerpunkt Kerafol 4, Keysight 4, je 1 bis 2 für Kitagawa, KITEC, KISCO, Keyence, Kikusui, Kingbright, Kelington, Kioxia). Ergebnisse sind Werkzeug-Zusammenfassungen und Verzeichnisse.
+- Patente: DEPATISnet, Espacenet, Google Patents nicht direkt abgefragt; F5 nicht erfüllt (alle 10 Firmen). Anmeldervarianten zurückgestellt: Kerafol Keramische Folien/Kerafol, Keysight Technologies Inc/Agilent/Hewlett-Packard, Keyence Corp, Kikusui Electronics Corp/Kikusui Denshi, Kingbright Electronic Co, KIOXIA Corp/Toshiba Memory, KISCO Ltd/Specialty Coating Systems/Seiki Corporation, Kitagawa Industry Co. Rechtsstand der Koppe-Patente (Kerafol) und der von Tom genannten Kioxia-/Kitagawa-Patente nicht von mir geprüft.
+- Wettbewerbereinsatz (F6): keine Einzelsuche; nur Listenabgleich (wettbewerber_referenzen.md bis Zeile 378 von 631 gelesen).
+- Handelsregister/Unternehmensregister nicht abgerufen; Rechtsform und Gegenstand aller Gesellschaften unbelegt. Messe-Signal (bdtronic, ELANTAS, RAMPF) von Tom übernommen.
+- Nichts verschickt, keine Datenbankfelder geändert, nichts committet. Größe/Umsatz und Kontakte nicht geprüft (Regeln D, K).
