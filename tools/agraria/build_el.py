@@ -163,11 +163,11 @@ items=[('Prioritäten',''),
 ('Nicht ansprechen','Alles, was nicht angesprochen wird: (1) Firmen im CRM mit gleichem oder sehr ähnlichem Namen (hier: Horsch Maschinen), (2) Verbände, Prüfdienstleister, Forschungsorganisationen, (3) Saatgut, Medien, Versicherungen, Banken, Händler ohne Fertigung. Grund steht in Spalte "Vor dem Kontakt klären".'),
 ('',''),
 ('Belastbarkeit',''),
-('Prüfstand','Spalte "Prüfstand": Die 46 aussichtsreichsten Firmen (frühere Grün-Liste) wurden am 22.10.2026 im Browser nachgeprüft (Impressum/Handelsregister, Fertigung am Sitz, Patente in Google Patents und Espacenet, Wettbewerber-Referenzen, CRM). "Grün bestätigt" = Sitz und Fertigung belegt. Bei allen anderen Firmen beruht die Einstufung nur auf Websuche-Treffern (vorläufig); dort sind Fertigung und Verguss aus Sitz und Produkttyp abgeleitet.'),
+('Prüfstand','Alle Einstufungen beruhen auf Websuche-Treffern (vorläufig): kein Browser, keine Patentdatenbank, keine Impressen gelesen. Sitz und Fertigung sind aus Sitz und Produkttyp abgeleitet.'),
 ('Für Gespräche','Verguss/Verklebung nur als Frage formulieren ("in Sensoren stecken typischerweise vergossene Bauteile"), nicht als Tatsache über die Firma.'),
-('Patente','Patente nur bei den 46 Browser-geprüften Firmen (Google Patents, Espacenet) gesucht. Eigenfertigung und Wettbewerbereinsatz im Gespräch erfragen.'),
+('Patente','Nicht geprüft. Eigenfertigung und Wettbewerbereinsatz im Gespräch erfragen.'),
 ('Vertriebsgebiete','Pro Vertriebsgebiet ein Blatt (Baden-Württemberg, Bayern, Rest DE / NL, ggf. Österreich/außerhalb; nur Prio A/B/C). Gebiet nach Fertigungs- bzw. Firmensitz laut Recherche. Zuständig: Stefan = Baden-Württemberg, Dietmar = Bayern, Manuel = Rest DE / NL. Österreich: Zuständigkeit noch festzulegen. Das Blatt "Zielfirmen" enthält alle zusammen.'),
-('Messe','Stand = Halle.Stand laut Ausstellerliste (Export 03.07.2026).')]
+('Messe','agraria 2026, Messe Wels, 25.–28.11.2026. Stand = Halle und Stand laut Ausstellerliste (Länderfilter DE/AT/NL der Messeseite).')]
 for i,(a,b) in enumerate(items,3):
     h.cell(i,1,a).font=Font(name=F,size=10,bold=True,color=navy if b=='' else '000000'); x=h.cell(i,2,b); x.font=Font(name=F,size=10); x.alignment=Alignment(wrap_text=True,vertical='top')
     h.cell(i,1).alignment=Alignment(vertical='top')
